@@ -1,0 +1,3 @@
+[submodule "themes/rero-hugo-bootstrap"]
+	path = themes/rero-hugo-bootstrap
+	url = https://github.com/rero/hugo-bootstrap
