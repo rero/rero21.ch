@@ -1,0 +1,100 @@
+# The URL of your website.
+# End your URL with a `/` trailing slash, e.g. `https://example.com/`.
+baseurl = "/"
+languageCode = "fr"
+defaultContentLanguage = "fr"
+theme = "rero-hugo-bootstrap"
+enableGitInfo = true
+preserveTaxonomyNames = true
+
+# Title of your site
+title = "Blog RERO 21"
+
+# Pagination
+paginate = 4
+paginatePath = "page"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+
+# Google analytics
+# googleAnalytics = "UA-47268287-3"
+
+
+[languages.fr]
+  languageName = "Français"
+
+  # Replace the default footer message with a localized message
+  copyright = "© copyright 2018 RERO"
+  
+  [[languages.fr.menu.main]]
+    url = "/presentation/"
+    name = "Présentation"
+    weight = 1
+  [[languages.fr.menu.main]]
+    url = "/links/"
+    name = "Liens et informations utiles"
+    weight = 2
+
+[languages.en]
+  languageName = "English"
+
+  # Replace the default footer message with a localized message
+  copyright = "© copyright 2018 RERO"
+  
+  [[languages.en.menu.main]]
+    url = "/presentation/"
+    name = "Presentation"
+    weight = 1
+  [[languages.en.menu.main]]
+    url = "/links/"
+    name = "Useful links and informations"
+    weight = 2
+
+[languages.de]
+  languageName = "Deutsch"
+
+  # Replace the default footer message with a localized message
+  copyright = "© copyright 2018 RERO"
+
+  [[languages.de.menu.main]]
+    url = "/prasentation/"
+    name = "Präsentation"
+    weight = 1
+  [[languages.de.menu.main]]
+    url = "/links/"
+    name = "Nützliche Links und Informationen"
+    weight = 2
+
+# Links format
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  # Main sections (currently used for the recent posts in the sidebar)
+  mainSections = ["post"]
+
+  # Default author
+  # author = "RERO"
+
+  # Date format (default: Jan 2, 2006)
+  date_format = "2006-01-02"
+
+  # Display post summaries instead of content in list templates (default: true)
+  # truncate = false
+
+  # Display social sharing buttons (default: true)
+  # share = true 
+
+  [params.sidebar]
+    # Whether to show the recent posts or not (default: true)
+    # showRecent = false
+
+    # Whether to show the taxonomies or not (default: true)
+    # showTaxonomy = false
+
+    # How many posts to show on the sidebar (Default: 5)
+    # num_recent_posts = 5
