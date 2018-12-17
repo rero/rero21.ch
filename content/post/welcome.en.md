@@ -2,29 +2,27 @@
 title: "Welcome"
 date: 2018-12-12
 draft: false
-tags: ["presentation", "rero21"]
+tags: ["rero21"]
 ---
 
-Welcome to the RERO21 blog!
+The RERO 21 blog is finally published! "Finally", because although the project officially started in September 2018, the RERO team has been working on it for many months, or even years if one considers the preliminary reflection and preparation of the project itself. And the desire to talk about the project has been with us all this time.
 
-The team at the RERO Central Office in Martigny welcomes you to its blog dedicated to the RERO21 project aimed at transforming RERO's current structure into a future competence and service centre for libraries by 2021.
+<!--more-->
 
-This blog has been designed as a showcase for the project and an effective way to establish communication around it with all interested partners in a transparent way.
-Here you will find all the useful information about the project (see the pages "Presentations" and "Links and useful information").
-Blog posts will be posted regularly to report on the progress of the project and the various themes it addresses, including the new ILS "RERO-ILS" currently under development
-to the RERO Central Office, which certainly represents the main aspect, as well as on the multilingual entity file (MEF), SONAR, and others.
+ The structure of the blog will grow over time. For the moment, apart from the posts published as the project comes along, two more static pages are available:
 
-The blog will naturally evolve over time according to the outlines drawn by the project.
+1. The [presentation](/en/about) page which briefly describes the RERO 21 project and its different features.
+1. The [resources](en/links) page which lists useful links.
 
-Feel free to contact us through the different channels available in the "Contact" section.
-This same section allows you to subscribe to the blog's RSS feed to be kept informed of all the latest news.
+The posts are grouped using <span class="badge badge-primary"><i class="fas fa-tag"></i> labels</span>, which are displayed in the right-hand bar. For the moment, the main labels are as follows:
+
+1. <a href="/tags/rero21" class="badge badge-primary"><i class="fas fa-tag"></i> rero21</a>, about the project itself
+1. <a href="/tags/rero-ils" class="badge badge-primary"><i class="fas fa-tag"></i> rero-ils</a> is more specifically focused on RERO ILS and the development of the software by the RERO team.
+
+If you wish to react to what you read, or simply exchange with the team at RERO, you can use the channels indicated in the right-hand bar. Although this site offers an RSS feed, which can even be tailored with each label, you can also subscribe to the RERO 21 newsletter using the following form:
 
 <div class="p-2 rero21-iframe">
-<iframe width="350" height="160" src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/2" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;"></iframe><p class="p-2"><small>Votre adresse e-mail ne sera utilisée que pour la <em>newsletter</em> RERO 21. Au fond de chaque e-mail se trouve un lien pour se désinscrire. Cette <em>newsletter</em> est gérée par le service <a href="https://www.sendinblue.com/gdpr/">sendinblue</a>. Les outils de <em>tracking</em> ne sont pas activés.</small></p>
+<iframe width="350" height="160" src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/2" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;"></iframe><p class="p-2"><small>Your e-mail address is only used to send you our newsletter and information about RERO 21. You can always use the unsubscribe link included at the bottom of each e-mail message you receive from us. This newsletter is managed using the service <a href="https://www.sendinblue.com/gdpr/">sendinblue</a>, with activity tracking mode disabled.</small></p>
 </div>
 
-We look forward to continuing this exciting and engaging project and to benefiting from your contributions.
-
-Enjoy your reading.
-
-The RERO Central Team
+Through this blog, the team wishes to share with you how exciting this new adventure called  RERO 21 is!

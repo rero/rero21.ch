@@ -1,16 +1,16 @@
 ---
-title: "Communiqué de presse CIIP"
+title: "CIIP press release"
 date: 2018-12-12
 draft: false
 tags: ["rero21"]
 ---
 
-Le chantier du futur centre de compétences est lancé ! Le 13 septembre 2018, la [CIIP](http://www.ciip.ch/ "Site web de la CIIP"), autorité de tutelle de RERO, [a donné son feu vert](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf "Communiqué de la CIIP au format PDF") pour le lancement du futur centre de compétences et de services aux bibliothèques — projet « RERO 21 ». Une fondation de droit privé et d'intérêt public sera créée en 2019 et remplacera progressivement l'actuel RERO jusqu'en 2021.
+The work on the future competence centre has begun! On September 13, 2018, the [CIIP](http://www.ciip.ch/ "Site web de la CIIP"), RERO's supervisory authority, [gave the go-ahead](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf "CIIP Press release") for the launch of the future library competence and service centre - the "RERO 21" project. A private law and public interest foundation will be created in 2019 and will gradually replace the current RERO until 2021.
 
 <!--more-->
 
-La fondation fournira aux bibliothèques cantonales, municipales, patrimoniales, juridiques et scolaires intéressées un nouveau système de gestion de bibliothèque libre et pouvant accueillir à la fois des réseaux ou des bibliothèques. [SONAR](https://sonar.ch) (*Swiss Open Access Repository*) fait aussi partie de la palette de services, qui a été établie en partie dans la continuité des prestations actuelles de RERO.
+The foundation will provide cantonal, municipal, heritage, legal and school libraries with a new library management system that is free and can be used by both networks and libraries. [SONAR](https://sonar.ch) (Swiss Open Access Repository) is also part of the range of services, which has been established partly in line with RERO's current services.
 
-Le nouveau système de gestion de bibliothèque en cours de développement à la centrale RERO, en collaboration avec le CERN, se base sur le *framework* [Invenio](https://inveniosoftware.org "Site web du framework Invenio") et sera opérationnel dès la fin 2020. Ces développements seront présentés en mars 2019 lors de la prochaine Journée RERO.
+The new library management system being developed by the team at RERO, in collaboration with the CERN, is based on the [Invenio](https://inveniosoftware.org "Invenio website") framework and will be in operation by the end of 2020. These developments will be presented in March 2019 at the upcoming *Journée RERO*.
 
-[Le communiqué de presse officiel de la CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf).
+[CIIP Press release](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf).

@@ -30,12 +30,12 @@ paginatePath = "page"
   copyright = "© copyright 2018 RERO"
   
   [[languages.fr.menu.main]]
-    url = "/presentation/"
-    name = "Présentation"
+    url = "/about/"
+    name = "À propos"
     weight = 1
   [[languages.fr.menu.main]]
-    url = "/links/"
-    name = "Liens et informations utiles"
+    url = "/resources/"
+    name = "Ressources"
     weight = 2
 
 [languages.en]
@@ -45,12 +45,12 @@ paginatePath = "page"
   copyright = "© copyright 2018 RERO"
   
   [[languages.en.menu.main]]
-    url = "/presentation/"
-    name = "Presentation"
+    url = "/about/"
+    name = "About"
     weight = 1
   [[languages.en.menu.main]]
-    url = "/links/"
-    name = "Useful links and informations"
+    url = "/resources/"
+    name = "Resources"
     weight = 2
 
 [languages.de]
@@ -60,12 +60,12 @@ paginatePath = "page"
   copyright = "© copyright 2018 RERO"
 
   [[languages.de.menu.main]]
-    url = "/prasentation/"
-    name = "Präsentation"
+    url = "/about/"
+    name = "Über das Projekt"
     weight = 1
   [[languages.de.menu.main]]
-    url = "/links/"
-    name = "Nützliche Links und Informationen"
+    url = "/resources/"
+    name = "Ressourcen"
     weight = 2
 
 # Links format
