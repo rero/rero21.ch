@@ -2,28 +2,27 @@
 title: "Willkommen"
 date: 2018-12-12
 draft: false
-tags: ["Präsentation", "rero21"]
+tags: ["rero21"]
 ---
 
-Willkommen im RERO21-Blog!
+Der Blog RERO 21 wurde endlich veröffentlicht! „Endlich“, denn das Team der RERO-Zentrale arbeitet bereits daran seit Monaten, sogar Jahren wenn auch die Vorüberlegungen und die Projektvorbereitung berücksichtigt werden, obwohl das Projekt erst im September 2018 offiziell begonnen hat. In dieser ganzen Zeit hat uns der Wunsch, davon zu erzählen, schon begleitet.
 
-Das Team der RERO-Zentrale in Martigny begrüßt Sie zu seinem Blog über das Projekt RERO21, das darauf abzielt, die derzeitige Struktur von RERO bis 2021 in ein zukünftiges Kompetenz- und Servicezentrum für Bibliotheken zu verwandeln.
+<!--more-->
 
-Dieser Blog wurde als Schaufenster für das Projekt konzipiert und ist eine effektive Möglichkeit, die Kommunikation mit allen interessierten Partnern transparent zu gestalten.
-Hier finden Sie alle nützlichen Informationen über das Projekt (siehe die Seiten "Präsentationen" und "Links und nützliche Informationen").
-Regelmäßig werden Blog-Posts veröffentlicht, die über den Projektfortschritt und die verschiedenen verwandten Themen berichten, darunter das neue "RERO-ILS" Bibliothekssystem, das derzeit in der RERO-Zentrale entwickelt wird, was sicherlich der Hauptaspekt ist, sowie über die mehrsprachige Entitätsdatei (MEF), SONAR und andere.
+Die Struktur des Blogs wird mit der Zeit vollständiger sein. Neben den Blogbeiträgen, sind zwei statische Seiten verfügbar:
 
-Der Blog wird sich natürlich im Laufe der Zeit entsprechend den Vorgaben des Projekts weiterentwickeln.
+1. Die Seite [„Über das Projekt“](/de/about), die das Projekt RERO 21 und seine verschiedenen Facetten synthetisch beschreibt.
+1. Die Seite [„Ressourcen“](/de/links), die nützliche Links sammelt. 
 
-Sie können uns über die verschiedenen Kanäle im Abschnitt "Kontakt" kontaktieren.
-In diesem Abschnitt können Sie auch den RSS-Feed des Blogs abonnieren, um über die neuesten Nachrichten informiert zu werden.
+Die Beiträge werden mittels <span class="badge badge-primary"><i class="fas fa-tag"></i>Etiketten</span> zusammengefasst, die in der rechten Leiste angezeigt werden. Im Moment sind die folgenden Hauptetiketten zu finden:
+
+1. <a href="/tags/rero21" class="badge badge-primary"><i class="fas fa-tag"></i> rero21</a>, über das Projekt selber
+1. <a href="/tags/rero-ils" class="badge badge-primary"><i class="fas fa-tag"></i> rero-ilsi</a>, spezifischer, mit Schwerpunkt auf RERO ILS und auf die Entwicklung der Software durch die RERO-Zentrale.
+
+Sie können auf Ihre Lesung reagieren oder mit der Zentrale austauschen, indem Sie die in der rechten Leiste angezeigten Kanäle nutzen. Diese Seite bietet einen RSS-Feed an, der sogar an jede Etikette angepasst werden kann. Jedoch können Sie auch den RERO 21 Newsletter über folgendes Formular abonnieren:
 
 <div class="p-2 rero21-iframe">
-<iframe width="350" height="160" src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/4" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;"></iframe><p class="p-2"><small>Votre adresse e-mail ne sera utilisée que pour la <em>newsletter</em> RERO 21. Au fond de chaque e-mail se trouve un lien pour se désinscrire. Cette <em>newsletter</em> est gérée par le service <a href="https://www.sendinblue.com/gdpr/">sendinblue</a>. Les outils de <em>tracking</em> ne sont pas activés.</small></p>
+<iframe width="350" height="160" src="https://my.sendinblue.com/users/subscribe/js_id/3sjlc/id/4" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;"></iframe><p class="p-2"><small>Ihre E-Mail-Adresse darf nur für den RERO 21 Newsletter verwendet werden. Am Ende jeder E-Mail befindet sich ein Link zum Abmeldung. Dieser Newsletter wird vom Service <a href="https://www.sendinblue.com/gdpr/">sendinblue</a>. Tracking-Tools sind nicht aktiviert.</small></p>
 </div>
 
-Wir freuen uns darauf, dieses spannende und engagierte Projekt fortzusetzen und von Ihren Beiträgen zu profitieren.
-
-Viel Spaß beim Lesen.
-
-Das Team der RERO-Zentrale
+Durch diesen Blog möchte die RERO-Zentrale mit Ihnen ihre Freude teilen, dieses neue Abenteuer namens RERO 21 zu erleben!
