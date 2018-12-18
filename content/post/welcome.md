@@ -11,8 +11,8 @@ Le [blog RERO 21](/) est enfin publié ! « Enfin », parce que si le proj
 
 La structure du blog va s'étoffer avec le temps. Pour le moment, en dehors des billets publiés au fil de l'eau, deux pages plus statiques sont disponibles :
 
-1. La page [*À propos*](/a-propos) qui décrit synthétiquement le projet RERO 21 et ses différentes facettes.
-1. La page [*ressources*](/ressources) qui rassemble les liens utiles.
+1. La page [*À propos*](/about) qui décrit synthétiquement le projet RERO 21 et ses différentes facettes.
+1. La page [*ressources*](/resources) qui rassemble les liens utiles.
 
 Les billets sont regroupés au moyen d'<span class="badge badge-primary"><i class="fas fa-tag"></i> étiquettes</span>, déclinées dans la barre de droite. Pour le moment, les étiquettes principales sont les suivantes :
 
