@@ -12,7 +12,7 @@ Der Blog RERO 21 wurde endlich veröffentlicht! „Endlich“, denn das Team der
 Die Struktur des Blogs wird mit der Zeit vollständiger sein. Neben den Blogbeiträgen, sind zwei statische Seiten verfügbar:
 
 1. Die Seite [„Über das Projekt“](/de/about), die das Projekt RERO 21 und seine verschiedenen Facetten synthetisch beschreibt.
-1. Die Seite [„Ressourcen“](/de/links), die nützliche Links sammelt. 
+1. Die Seite [„Ressourcen“](/de/resources), die nützliche Links sammelt. 
 
 Die Beiträge werden mittels <span class="badge badge-primary"><i class="fas fa-tag"></i>Etiketten</span> zusammengefasst, die in der rechten Leiste angezeigt werden. Im Moment sind die folgenden Hauptetiketten zu finden:
 

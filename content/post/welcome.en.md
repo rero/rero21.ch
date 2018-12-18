@@ -12,7 +12,7 @@ The RERO 21 blog is finally published! "Finally", because although the project o
  The structure of the blog will grow over time. For the moment, apart from the posts published as the project comes along, two more static pages are available:
 
 1. The [presentation](/en/about) page which briefly describes the RERO 21 project and its different features.
-1. The [resources](en/links) page which lists useful links.
+1. The [resources](en/resources) page which lists useful links.
 
 The posts are grouped using <span class="badge badge-primary"><i class="fas fa-tag"></i> labels</span>, which are displayed in the right-hand bar. For the moment, the main labels are as follows:
 
