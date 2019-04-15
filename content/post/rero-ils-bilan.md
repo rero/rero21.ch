@@ -14,7 +14,7 @@ Depuis, le logiciel s'est
 
 ------------------------------
 
-Pour autant, la déclinaison <abbr title="Integrated Library Service">ILS</abbr>
+Pour autant, la déclinaison <abbr title="Integrated Library Service"><span style="font-variant: small-caps;">ils</span></abbr>
 
 ------------------------------
 
