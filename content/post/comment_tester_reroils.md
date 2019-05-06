@@ -55,6 +55,6 @@ Il manque des fonctionnalités essentielles?
 Vous êtes tombé/e sur un bug?
 
 * Si vous voulez vraiment bien faire les choses, consultez les [problèmes](https://github.com/rero/rero-ils/issues) (*issues* en jargon Github) déjà signalés. Vous pouvez même ouvrir vous-même une issue si vous avez un compte Github.
-* S'il n'y a rien dans les issues (et même si vous n'avez pas vérifié), vos retours sont les bienvenus par [e-mail](info@rero.ch) ou via le [chat public](https://gitter.im/rero/reroils) (authentification nécessaire). Nous nous engageons à vous répondre!
+* S'il n'y a rien dans les issues (et même si vous n'avez pas vérifié), vos retours sont les bienvenus par [e-mail](mailto:info@rero.ch) ou via le [chat public](https://gitter.im/rero/reroils) (authentification nécessaire). Nous nous engageons à vous répondre!
 
 Merci d'avance pour votre participation et vos tests!

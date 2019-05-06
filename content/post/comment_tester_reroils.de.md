@@ -55,6 +55,6 @@ Es fehlen wesentliche Funktionalitäten?
 Sie haben einen Fehler gefunden?
 
 * Wenn Sie alles richtig machen wollen, bitte konsultieren Sie die [Probleme](https://github.com/rero/rero-ils/issues) (*Issues* im Github-Jargon), die bereits gemeldet worden sind. Sie können sogar selbst ein Issue öffnen, falls Sie ein Github-Konto besitzen.
-* Wenn es in den Issues nichts gibt (und auch wenn Sie es nicht geprüft haben), können Sie uns gerne Ihre Rückmeldungen per [E-Mail](info@rero.ch) oder über den [öffentlichen Chat](https://gitter.im/rero/reroils) (Anmeldung erforderlich) senden. Wir verpflichten uns, Ihnen zu antworten!
+* Wenn es in den Issues nichts gibt (und auch wenn Sie es nicht geprüft haben), können Sie uns gerne Ihre Rückmeldungen per [E-Mail](mailto:info@rero.ch) oder über den [öffentlichen Chat](https://gitter.im/rero/reroils) (Anmeldung erforderlich) senden. Wir verpflichten uns, Ihnen zu antworten!
 
 Vielen Dank im Voraus für Ihre Teilnahme und Ihre Tests!

@@ -55,6 +55,6 @@ Are some basic features missing?
 You encountered a bug?
 
 * If you really want to do it right, check the already reported [issues](https://github.com/rero/rero-ils/issues). You can even open an issue yourself if you have a Github account.
-* If there is no corresponding issue (and even if you haven't checked), your feedback is welcome by [e-mail](info@rero.ch) or via our [public chatroom](https://gitter.im/rero/reroils) (authentication required). We will get back to you!
+* If there is no corresponding issue (and even if you haven't checked), your feedback is welcome by [e-mail](mailto:info@rero.ch) or via our [public chatroom](https://gitter.im/rero/reroils) (authentication required). We will get back to you!
 
 Thank you in advance for your participation and your tests!
