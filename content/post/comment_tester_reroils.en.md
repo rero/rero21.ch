@@ -2,7 +2,7 @@
 title: "How to test RERO ILS?"
 date: 2019-04-29
 draft: false
-tags: ["rero ils"]
+tags: ["rero-ils"]
 ---
 
 You have already heard several times about <span style="font-variant: small-caps">rero ils</span>, but you would like to see what it concretely looks like? To make up your own mind, get your hands dirty? How perfect: <span style="font-variant: small-caps">rero ils</span> is an open source software, developed in a fully transparent approach.

@@ -2,7 +2,7 @@
 title: "Wie Sie RERO ILS testen können"
 date: 2019-04-29
 draft: false
-tags: ["rero ils"]
+tags: ["rero-ils"]
 ---
 
 Sie haben schon mehrmals von <span style="font-variant: small-caps">rero ils</span> gehört, aber Sie würden gerne mal konkret sehen, wie es aussieht? Sich Ihre eigene Meinung bilden und sich die Hände schmutzig machen? Das trifft sich gut: <span style="font-variant: small-caps">rero ils</span> ist eine freie Software, die völlig transparent entwickelt wird.

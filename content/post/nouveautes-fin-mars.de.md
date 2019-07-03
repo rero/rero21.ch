@@ -1,7 +1,7 @@
 ---
 title: "Was ist neu Ende März 2019?"
 date: 2019-05-06
-tags: ["rero-ils"]
+tags: ["rero-ils", "release"]
 ---
 
 Ende März wurde eine neue Version von <span style="font-variant: small-caps;">rero ils</span> (v0.1.a21) veröffentlicht:
