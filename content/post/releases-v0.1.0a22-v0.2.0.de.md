@@ -13,6 +13,6 @@ Die Versionshinweise lauten wie folgt:
 - https://github.com/rero/rero-ils/releases/tag/v0.1.0a22
 - https://github.com/rero/rero-ils/releases/tag/v0.2.0
 
-*Die Folge des Textes is auf [Französisch](/releases-v0.1.0a22-v0.2.0) erhältlich.*
+*Die Folge des Textes is auf [Französisch](/releases-v0.1.0a22-v0.2.0) oder auf [Englisch](/en/releases-v0.1.0a22-v0.2.0) erhältlich.*
 
 <!--more-->
