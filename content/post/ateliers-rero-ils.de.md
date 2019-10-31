@@ -1,6 +1,6 @@
 ---
-title: "RERO IlS Workshops"
-date: 2019-10-30T17:04:04+01:00
+title: "RERO ILS Workshops"
+date: 2019-10-31
 draft: false 
 tags: ["rero-ils", "workshops"]
 ---
