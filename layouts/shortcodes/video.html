@@ -1,0 +1,9 @@
+<figure>
+    <video controls="controls" preload="metadata">
+        <source src="/vid/{{ .Get "src" }}.webm" type="video/webm">
+        <source src="/vid/{{ .Get "src" }}.mp4" type="video/mp4">
+        Your browser does not support the video tag, you can download the video
+        with <a href="/vid/{{ .Get "src" }}.mp4">this link</a>
+    </video>
+    <figcaption>{{ .Get "legend" }}</figcaption>
+</figure>
