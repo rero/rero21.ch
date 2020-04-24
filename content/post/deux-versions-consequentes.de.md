@@ -87,11 +87,6 @@ Exemplars.
 
 {{< video src="request_as_a_librarian" legend="Eine Bestellung für eine Leserin oder einen Leser aufgeben" >}}
 
-Du côté du modèle de données, un travail complexe a été réalisé pour le titre et
-les transformations nécessaires pour passer du MARC au JSON, ainsi que sur les
-adresses URL. Enfin, un wiki a été ajouté afin de rédiger en ligne l'aide
-professionnelle.
-
 Beim Datenmodell wurden komplexe Arbeiten für den Titel sowie für die
 URL-Adressen durchgeführt, insbesondere für die erforderliche Umstellung von
 MARC auf JSON. Ein Wiki wurde ebenfalls hinzugefügt, um eine Online-Hilfe für
