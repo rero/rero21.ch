@@ -4,7 +4,6 @@ baseurl = "/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
 theme = "rero-hugo-bootstrap"
-enableGitInfo = true
 preserveTaxonomyNames = true
 
 # Title of your site
