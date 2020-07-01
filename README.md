@@ -13,9 +13,21 @@ To run rero21.ch :
 
 ### Smallcaps
 
-In order to add acronym in small caps, you can use the following shortcode:
+In order to add acronyms in small caps, you can use the following shortcode:
 
-   {{< smallcaps "rero" >}}
+     {{< smallcaps "rero" >}}
+
+### Tables
+
+In order to add Bootstrap styling to a markdown table, wrap your markdown table inside the shortcode like so: 
+
+     {{< bootstrap-table "table table-striped table-bordered" >}}
+     | Résultat de l'alignement     | Fréquence | % des monographies RERO |
+     |:-----------------------------|----------:|------------------------:|
+     | Aucune équivalence           | 2'954'451 |          65.2%          |
+     {{< /bootstrap-table >}}
+
+Use [bootstrap-table](https://getbootstrap.com/docs/4.4/content/tables/) classes inside the `""` to customize your table.
 
 ### Images
 
@@ -27,4 +39,4 @@ Put the image in the `static/img/` folder and use the hugo built-in
 To add video, put your video in `webm` and `mp4`, with the exact same file name
 in the `static/vid/` folder and use the following shortcode:
 
-   {{< video src="<filename>" legend="<the legend below the video>" >}}
+     {{< video src="<filename>" legend="<the legend below the video>" >}}
