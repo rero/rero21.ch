@@ -1,5 +1,14 @@
 This project is the source code of the [rero21.ch](https://rero21.ch) website.
 
+## Install
+
+To run rero21.ch :
+
+1. Install [Hugo](https://gohugo.io/getting-started/installing/)
+1. Fork and/or clone the repo : `git clone https://github.com/rero/rero21.ch.git`
+1. Initialize the [theme submodule](https://github.com/rero/hugo-bootstrap) with `git submodule update --init`
+1. Run the site locally with `hugo server -D`
+
 ## Shortcodes
 
 ### Smallcaps
