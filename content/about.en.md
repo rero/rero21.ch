@@ -1,28 +1,29 @@
 ---
 title: "RERO21 project"
 language: "en"
-date: 2018-12-12
+date: 2020-07-13
 ---
 
+[RERO](https://www.rero.ch/) is the Library Network of Western Switzerland, with its central office in Martigny, Valais. In the current context of the changing library landscape in Switzerland, RERO is turning into a competence and service centre for libraries by 2021. It will then become a non-profit foundation. This major project is called RERO 21 and has been approved in September 2018 by the RERO's supervisory authority, the [CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf "Press release of CIIP in PDF").
 
-In the current context of the changing library landscape in Switzerland, RERO will turn into a competence and service centre for libraries by 2021. This project was approved by RERO's supervisory authority, the [CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf "CIIP press release"), in september 2018.
-
-This blog aims to publish posts about RERO 21,  grouped under the [RERO 21 label](/tags/rero21), as well as about the different sub-projects that constitute it:
-
-- [RERO ILS](/tags/rero-ils).
-- [MEF](/tags/mef).
-- SONAR (which has its own [website](https://sonar.ch).
+This blog aims to publish posts about RERO 21, grouped under the [RERO 21 label](/en/tags/rero21), as well as about the different sub-projects that constitute it: RERO ILS, MEF et SONAR.
 
 ### RERO ILS
 
-Since the end of 2017, the RERO team is developing a free library management system, which will be available as a web service hosted in Martigny. From a technical point of view, RERO ILS is based on the [Invenio](https://invenio-software.org) framework and the experience acquired by the team.
+*More info on the [RERO ILS page](/en/reroils)*
 
-This project, at the heart of RERO 21, is intended to be a system open to both libraries and library networks. It will be operational by the end of 2020. A demonstration system is publicly available at the following address: [ils.test.rero.ch](https://ils.test.rero.ch).
+RERO ILS is an open source library management system developed by RERO in collaboration with the [Catholic University of Louvain (UCLouvain)](https://uclouvain.be/). It will be put into production to replace the current system within the framework of the RERO 21 project.
 
-### MEF: Multilingual Entity File
+### MEF: *Multilingual Entity File*
 
-RERO 21 will offer its services throughout Switzerland, which means that RERO ILS must be multilingual. From the authorities' point of view, the challenge is in no way trivial. RERO is exploring the feasibility of a multilingual authority file consisting of the alignment, by means of [VIAF](https://viaf.org), of different national authority files. RERO believes that the MEF can be useful and has decided to develop this service in an open approach and to make it available, for the time being in a test version, at [mef.test.rero.ch](https://mef.test.rero.ch).
+RERO 21 will offer its services throughout Switzerland, which means that RERO ILS must be multilingual. With MEF, RERO has developed a decentralised solution based on the reliability of the authorities and on Linked Data.
 
-### SONAR: Swiss Open Access Repository
+MEF will contain records of persons, collective bodies, works, expressions, places, time spans and common names that can be integrated and used multilingually by library management systems, including RERO ILS. MEF retrieves authorities from different sources (GND, IdRef, etc.) and aggregates them automatically thanks to [VIAF](https://viaf.org "Virtual International Authority File website"), deriving display labels in German and French (currently) when available. The authorities themselves are maintained and edited directly at the source, in agreement with their issuing institution.
+
+RERO believes that MEF can be useful and has decided to develop this service in an open approach and to make it available, for the time being in a test version, at [mef.test.rero.ch](https://mef.test.rero.ch).
+
+### SONAR: *Swiss Open Access Repository*
+
+*More info on the website [sonar.ch](https://sonar.ch/)*
 
 The SONAR project is part of the [P-5](https://www.swissuniversities.ch/en/organisation/projects-and-programmes/p-5/) program of [swissuniversities](https://www.swissuniversities.ch/). It consists in the development of a national institutional archive, which aims to collect, promote and ensure the preservation of open access scientific publications of authors affiliated to public research institutions in Switzerland. SONAR also intends to offer an institutional archive service ("IR as a Service*").
