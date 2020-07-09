@@ -30,46 +30,58 @@ rssLimit = 20
   languageName = "Français"
 
   # Replace the default footer message with a localized message
-  copyright = "© copyright 2018 RERO"
+  copyright = "© copyright 2020 RERO"
   
+  [[languages.fr.menu.main]]
+    url = "/reroils/"
+    name = "RERO ILS"
+    weight = 1
   [[languages.fr.menu.main]]
     url = "/about/"
     name = "À propos"
-    weight = 1
+    weight = 2
   [[languages.fr.menu.main]]
     url = "/resources/"
     name = "Ressources"
-    weight = 2
+    weight = 3
 
 [languages.en]
   languageName = "English"
 
   # Replace the default footer message with a localized message
-  copyright = "© copyright 2018 RERO"
+  copyright = "© copyright 2020 RERO"
   
+  [[languages.en.menu.main]]
+    url = "/reroils/"
+    name = "RERO ILS"
+    weight = 1
   [[languages.en.menu.main]]
     url = "/about/"
     name = "About"
-    weight = 1
+    weight = 2
   [[languages.en.menu.main]]
     url = "/resources/"
     name = "Resources"
-    weight = 2
+    weight = 3
 
 [languages.de]
   languageName = "Deutsch"
 
   # Replace the default footer message with a localized message
-  copyright = "© copyright 2018 RERO"
+  copyright = "© copyright 2020 RERO"
 
+  [[languages.de.menu.main]]
+    url = "/reroils/"
+    name = "RERO ILS"
+    weight = 1
   [[languages.de.menu.main]]
     url = "/about/"
     name = "Über das Projekt"
-    weight = 1
+    weight = 2
   [[languages.de.menu.main]]
     url = "/resources/"
     name = "Ressourcen"
-    weight = 2
+    weight = 3
 
 # Links format
 
