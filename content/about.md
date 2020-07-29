@@ -16,11 +16,9 @@ RERO ILS est un système de gestion de bibliothèque *open source* développé p
 
 ### MEF : *Multilingual Entity File*
 
-RERO 21 proposera ses services sur l'ensemble du territoire helvétique, aussi RERO ILS doit impérativement être multilingue. Avec MEF, RERO a developpé une solution décentralisée qui se base sur la fiabilité des autorités et sur le Linked Data.
+*Plus d'infos sur la [page de MEF](/mef)*
 
-MEF contiendra des notices de personnes, de collectivités, d'œuvres, d'expressions, de lieux, de périodes et de noms communs, pouvant être intégrés et utilisés de manière multilingue par des systèmes de gestion de bibliothèque, dont RERO ILS. MEF récupère les autorités des différentes sources (GND, IdRef, etc.) et les agrège automatiquement grâce à [VIAF](https://viaf.org "Site web du Virtual International Authority File"), déduisant ainsi des labels d'affichage en allemand et en français (à l'heure actuelle) lorsqu'ils sont disponibles. Les autorités elles-mêmes sont maintenues et éditées directement à la source, en accord avec leur institution émettrice.
-
-RERO pense que le MEF peut être utile et a décidé de développer ce service de manière ouverte et de le mettre à disposition, pour l'instant en version test, à l'adresse [mef.test.rero.ch](https://mef.test.rero.ch "Le service MEF, accessible librement").
+RERO 21 proposera ses services sur l'ensemble du territoire helvétique, aussi RERO ILS doit impérativement être multilingue. Avec MEF, RERO a developpé une solution décentralisée qui se base sur la fiabilité des autorités et sur le Linked Data, afin d'afficher des données en plusieurs langues.
 
 ### SONAR : *Swiss Open Access Repository*
 

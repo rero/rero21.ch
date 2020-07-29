@@ -33,17 +33,40 @@ rssLimit = 20
   copyright = "© copyright 2020 RERO"
   
   [[languages.fr.menu.main]]
-    url = "/reroils/"
     name = "RERO ILS"
     weight = 1
   [[languages.fr.menu.main]]
+    url = "/mef/"
+    name = "MEF"
+    weight = 2
+  [[languages.fr.menu.main]]
     url = "/about/"
     name = "À propos"
-    weight = 2
+    weight = 3
   [[languages.fr.menu.main]]
     url = "/resources/"
     name = "Ressources"
+    weight = 4
+  [[languages.fr.menu.main]]
+    url = "/reroils/reroils/"
+    name = "Présentation"
+    parent = "RERO ILS"
+    weight = 1
+  [[languages.fr.menu.main]]
+    url = "/reroils/features/"
+    name = "Fonctionnalités"
+    parent = "RERO ILS"
+    weight = 2
+  [[languages.fr.menu.main]]
+    url = "/reroils/early_adopters/"
+    name = "Early adopters"
+    parent = "RERO ILS"
     weight = 3
+  [[languages.fr.menu.main]]
+    url = "/reroils/pricing/"
+    name = "Tarifs"
+    parent = "RERO ILS"
+    weight = 4
 
 [languages.en]
   languageName = "English"
@@ -52,17 +75,40 @@ rssLimit = 20
   copyright = "© copyright 2020 RERO"
   
   [[languages.en.menu.main]]
-    url = "/reroils/"
     name = "RERO ILS"
     weight = 1
   [[languages.en.menu.main]]
+    url = "/mef/"
+    name = "MEF"
+    weight = 2
+  [[languages.en.menu.main]]
     url = "/about/"
     name = "About"
-    weight = 2
+    weight = 3
   [[languages.en.menu.main]]
     url = "/resources/"
     name = "Resources"
+    weight = 4
+  [[languages.en.menu.main]]
+    url = "/reroils/reroils/"
+    name = "Presentation"
+    parent = "RERO ILS"
+    weight = 1
+  [[languages.en.menu.main]]
+    url = "/reroils/features/"
+    name = "Features"
+    parent = "RERO ILS"
+    weight = 2
+  [[languages.en.menu.main]]
+    url = "/reroils/early_adopters/"
+    name = "Early adopters"
+    parent = "RERO ILS"
     weight = 3
+  [[languages.en.menu.main]]
+    url = "/reroils/pricing/"
+    name = "Pricing"
+    parent = "RERO ILS"
+    weight = 4
 
 [languages.de]
   languageName = "Deutsch"
@@ -71,17 +117,40 @@ rssLimit = 20
   copyright = "© copyright 2020 RERO"
 
   [[languages.de.menu.main]]
-    url = "/reroils/"
     name = "RERO ILS"
     weight = 1
   [[languages.de.menu.main]]
+    url = "/mef/"
+    name = "MEF"
+    weight = 2
+  [[languages.de.menu.main]]
     url = "/about/"
     name = "Über das Projekt"
-    weight = 2
+    weight = 3
   [[languages.de.menu.main]]
     url = "/resources/"
     name = "Ressourcen"
+    weight = 4
+  [[languages.de.menu.main]]
+    url = "/reroils/reroils/"
+    name = "Presentation"
+    parent = "RERO ILS"
+    weight = 1
+  [[languages.de.menu.main]]
+    url = "/reroils/features/"
+    name = "Funktionalitäten"
+    parent = "RERO ILS"
+    weight = 2
+  [[languages.de.menu.main]]
+    url = "/reroils/early_adopters/"
+    name = "Early adopters"
+    parent = "RERO ILS"
     weight = 3
+  [[languages.de.menu.main]]
+    url = "/reroils/pricing/"
+    name = "Tarife"
+    parent = "RERO ILS"
+    weight = 4
 
 # Links format
 
