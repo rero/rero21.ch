@@ -1,14 +1,14 @@
 ---
 title: "RERO ILS: système de gestion de bibliothèque open source"
 language: "fr"
-date: 2020-07-13
+date: 2020-08-18
 ---
 
-*Voir aussi:* [Fonctionnalités](/reroils/features) - [Eary adopters](/reroils/early_adopters) - [Tarifs](/reroils/pricing)
+*Voir aussi :* [Fonctionnalités](/reroils/features) - [Early adopters](/reroils/early_adopters) - [Tarifs](/reroils/pricing)
 
 ***
 
-RERO ILS est un système de gestion de bibliothèque (SGB) *open source* développé par RERO en collaboration avec l'[Université catholique de Louvain (UCLouvain)](https://uclouvain.be/). ILS est une abréviation anglaise signifiant *Integrated Library System*. Il s'agit d'une catégorie de logiciels permettant de gérer les activités courantes d'une bibliothèque (acquisitions de documents, prêt, catalogage, recherche) et offrant une interface publique pour les utilisateurs.
+RERO ILS est un système de gestion de bibliothèque (SGB) *open source* développé par RERO en collaboration avec l'[Université catholique de Louvain (UCLouvain)](https://uclouvain.be/). ILS est une abréviation anglaise signifiant *Integrated Library System*. Il s'agit d'une catégorie de logiciels permettant de gérer les activités courantes d'une bibliothèque (acquisitions de documents, prêt, catalogage, recherche) et offrant une interface publique pour les utilisateurs. RERO ILS a pour but de permettre la gestion d'un réseau de bibliothèques, mais convient également à des bibliothèques indépendantes.
 
 D'un point de vue technique, RERO ILS se fonde sur le *framework* [Invenio](https://invenio-software.org) développé par le [CERN](https://home.cern/).
 

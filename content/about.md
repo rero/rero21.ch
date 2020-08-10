@@ -1,7 +1,7 @@
 ---
 title: "Projet RERO 21"
 language: "fr"
-date: 2020-07-13
+date: 2020-08-18
 ---
 
 [RERO](https://www.rero.ch/) est le Réseau des bibliothèques de Suisse occidentale, dont la centrale est basée à Martigny, en Valais. Dans le contexte actuel de mutation du paysage des bibliothèques en Suisse, RERO se transforme d'ici 2021, en un centre de compétences et de services destinés aux bibliothèques. Il deviendra dès lors une fondation à but non lucratif. Ce projet d'envergure s'intitule RERO 21 et a été approuvé par l'autorité de tutelle de RERO, la [CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf "Communiqué de la CIIP au format PDF") en septembre 2018.

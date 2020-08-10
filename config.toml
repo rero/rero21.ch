@@ -16,6 +16,8 @@ paginatePath = "page"
 # RSS
 rssLimit = 20
 
+[markup.goldmark.renderer]
+unsafe= true
 
 [taxonomies]
   tag = "tags"

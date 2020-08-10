@@ -1,10 +1,10 @@
 ---
 title: "RERO ILS: Open Source integrietes Bibliothekssystem"
 language: "de"
-date: 2020-07-13
+date: 2020-08-18
 ---
 
-RERO ILS ist ein Open Source integriertes Bibliotheksverwaltungssystem (ILS), das von RERO in Zusammenarbeit mit der [Katholischen Universität Löwen (UCLouvain)](https://uclouvain.be/) entwickelt wurde. ILS ist eine englische Abkürzung für *Integrated Library System*. Dabei handelt es sich um eine Softwarekategorie, die für die Verwaltung des täglichen Bibliotheksbetriebs (Dokumentenerwerb, Ausleihe, Katalogisierung, Suche) verwendet wird und den Benutzern eine öffentliche Schnittstelle bietet.
+RERO ILS ist ein Open Source integriertes Bibliotheksverwaltungssystem (ILS), das von RERO in Zusammenarbeit mit der [Katholischen Universität Löwen (UCLouvain)](https://uclouvain.be/) entwickelt wurde. ILS ist eine englische Abkürzung für *Integrated Library System*. Dabei handelt es sich um eine Softwarekategorie, die für die Verwaltung des täglichen Bibliotheksbetriebs (Dokumentenerwerb, Ausleihe, Katalogisierung, Suche) verwendet wird und den Benutzern eine öffentliche Schnittstelle bietet. RERO ILS soll die Verwaltung eines Bibliotheksverbundes ermöglichen, eignet sich aber auch für unabhängige Bibliotheken.
 
 Aus technischer Sicht basiert RERO ILS auf dem [Invenio](https://invenio-software.org) Framework, das am [CERN](https://home.cern/) entwickelt wurde.
 
