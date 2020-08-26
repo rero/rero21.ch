@@ -1,7 +1,6 @@
 ---
 title: "Aligner les autorités RERO avec celles d’IdRef : le travail est en cours"
-date: 2020-07-28T15:10:18+02:00
-publishdate:
+date: 2020-08-26T11:58:18+02:00
 draft: false
 tags: ["autorités", "métadonnées", "data-alignment", "idref", "rero-ils", "slsp"]
 ---
