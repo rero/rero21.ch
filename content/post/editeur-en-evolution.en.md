@@ -6,7 +6,7 @@ draft: false
 tags: ["rero-ils", "release", "display", "metadata"]
 ---
 
-With another month elapsed, a new version of {{< smallcaps "rero ils" >}} is available on the [test interface][1]. The work of the development team to improve the software continues with a new update that should be of interest to cataloguing professionals. Comprehensive release notes can be found on the project's Github page : [`v0.11.0`][2].
+With another month elapsed, a new version of RERO ILS is available on the [test interface][1]. The work of the development team to improve the software continues with a new update that should be of interest to cataloguing professionals. Comprehensive release notes can be found on the project's Github page : [`v0.11.0`][2].
 
 <!--more-->
 

@@ -7,7 +7,7 @@ tags: ["rero-ils", "release", "Erwerbungen", "Anzeige", "Metadaten", "Vorhersage
 slug: le-catalogage-setoffe
 ---
 
-Ein neuer Sprint endet für {{< smallcaps "rero ils" >}} mit einer Version voller Neuheiten. Dank einer zunehmend stabilen technischen Grundlage kann sich das Entwicklungsteam auf nutzerorientierte Funktionalitäten konzentrieren. Die vollständigen Versionshinweise sind wie üblich auf der Github-Seite verfügbar: [`v0.10.0`][1].
+Ein neuer Sprint endet für RERO ILS mit einer Version voller Neuheiten. Dank einer zunehmend stabilen technischen Grundlage kann sich das Entwicklungsteam auf nutzerorientierte Funktionalitäten konzentrieren. Die vollständigen Versionshinweise sind wie üblich auf der Github-Seite verfügbar: [`v0.10.0`][1].
 
 <!--more-->
 
@@ -19,7 +19,7 @@ Die Arbeit an den öffentlichen und professionellen Schnittstellen wird fortgese
 
 ## Fremddatenübernahme
 
-Die Möglichkeit, Datensätze aus externen Katalogen zu importieren, erleichtert und rationalisiert einen Grossteil der Katalogisierungsarbeit. {{< smallcaps "rero ils" >}} bietet die Möglichkeit, dies über [das SRU-Protokoll][2] zu tun. Es besteht die Möglichkeit, im gewählten Katalog (zurzeit nur BnF) nach Stichworten (Autor, Titel, Datum, ISBN, usw.) zu suchen und den zu importierenden Datensatz auszuwählen. Dieser Datensatz kann dann in der Katalogisierungsoberfläche frei bearbeitet werden, bevor er gespeichert wird. 
+Die Möglichkeit, Datensätze aus externen Katalogen zu importieren, erleichtert und rationalisiert einen Grossteil der Katalogisierungsarbeit. RERO ILS bietet die Möglichkeit, dies über [das SRU-Protokoll][2] zu tun. Es besteht die Möglichkeit, im gewählten Katalog (zurzeit nur BnF) nach Stichworten (Autor, Titel, Datum, ISBN, usw.) zu suchen und den zu importierenden Datensatz auszuwählen. Dieser Datensatz kann dann in der Katalogisierungsoberfläche frei bearbeitet werden, bevor er gespeichert wird. 
 
 ## Einführung der Zeitschriftenverwaltung
 

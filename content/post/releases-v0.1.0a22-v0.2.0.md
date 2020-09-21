@@ -6,7 +6,7 @@ draft: false
 tags: ["rero-ils", "release"]
 ---
 
-Depuis la [Journée {{< smallcaps "rero" >}}](https://www.rero.ch/page.php?section=communique&pageid=reroday2019_fr) de mars 2019, deux versions de {{< smallcaps "rero ils" >}} ont été publiées. Elles apportent à la fois une consolidation de l'existant, le début du support du modèle consortial, une amélioration du paramétrage du moteur de recherche et la mise en place des notifications en lien avec le prêt.
+Depuis la [Journée RERO](https://www.rero.ch/page.php?section=communique&pageid=reroday2019_fr) de mars 2019, deux versions de RERO ILS ont été publiées. Elles apportent à la fois une consolidation de l'existant, le début du support du modèle consortial, une amélioration du paramétrage du moteur de recherche et la mise en place des notifications en lien avec le prêt.
 
 Les notes de version sont les suivantes :
 
@@ -21,9 +21,9 @@ Les notes de version sont les suivantes :
 
 Cette version ponctue le sprint 17 qui avait parmi ses objectifs la résolution du plus grand nombre possible de problèmes identifiés (les [*issues* GitHub](https://github.com/rero/rero-ils/issues)), ainsi que l'amélioration de la qualité du code en augmentant sa couverture par des [tests unitaires](https://fr.wikipedia.org/wiki/Test_unitaire) et en s'assurant de mieux le documenter. À la fin du sprint, la couverture du code par les tests est passée de 77 à 89 % (elle dépasse aujourd'hui les 91 %) et il ne restait plus de partie de code non commentée. Enfin, 11 *issues*, dont on trouve la liste à la fin de la [note de version](https://github.com/rero/rero-ils/releases/tag/v0.1.0a22), ont été résolues.
 
-### Organisations multiples : {{< smallcaps "rero ils" >}} devient *multi-tenant*
+### Organisations multiples : RERO ILS devient *multi-tenant*
 
-En plus d'améliorations apportées à l'interface utilisateur, professionnelle ou non, et au module de prêt, le support du modèle consortial a été implémenté. Par *modèle consortial*, il faut comprendre l'existence de plusieurs **organisations**, comprenant le plus souvent plusieurs **bibliothèques**, elles-mêmes regroupant plusieurs **localisations**. L'existence de plus d'une organisation dans {{< smallcaps "rero ils" >}} suppose que les données et les actions de chacune d'entre elles soient correctement isolées et traitées.
+En plus d'améliorations apportées à l'interface utilisateur, professionnelle ou non, et au module de prêt, le support du modèle consortial a été implémenté. Par *modèle consortial*, il faut comprendre l'existence de plusieurs **organisations**, comprenant le plus souvent plusieurs **bibliothèques**, elles-mêmes regroupant plusieurs **localisations**. L'existence de plus d'une organisation dans RERO ILS suppose que les données et les actions de chacune d'entre elles soient correctement isolées et traitées.
 
 ### Meilleure intégrations d'ebooks
 
@@ -39,7 +39,7 @@ Ensuite, il s'agit d'améliorer l'ordre d'affichage des résultats, avec par dé
 
 ### Notifications liées au prêt
 
-Du côté des notifications, une nouvelle ressource (un type d'objet à part entière) a été créée dans {{< smallcaps "rero ils" >}}, afin de les gérer[^1]. Il s'agit d'envoyer une notification (pour l'instant par e-mail et en anglais uniquement, mais [la suite est déjà prévue](https://tree.taiga.io/project/rero21-reroils/us/703)), au lecteur ou à la lectrice, par exemple lorsque le livre demandé l'attend au bureau du prêt, ou que l'échéance de retour des documents empruntés approche.
+Du côté des notifications, une nouvelle ressource (un type d'objet à part entière) a été créée dans RERO ILS, afin de les gérer[^1]. Il s'agit d'envoyer une notification (pour l'instant par e-mail et en anglais uniquement, mais [la suite est déjà prévue](https://tree.taiga.io/project/rero21-reroils/us/703)), au lecteur ou à la lectrice, par exemple lorsque le livre demandé l'attend au bureau du prêt, ou que l'échéance de retour des documents empruntés approche.
 
 ### Rôles professionnels étoffés
 

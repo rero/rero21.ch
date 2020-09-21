@@ -6,7 +6,7 @@ draft: false
 tags: ["rero-ils", "release"]
 ---
 
-Since the [{{< smallcaps "rero" >}} Day](https://www.rero.ch/page.php?section=communique&pageid=reroday2019_fr) in March 2019, two versions of {{< smallcaps "rero ils" >}} have been released. They provide a consolidation of the existing system, early support of the consortial model, an improvement of the search engine and circulation notifications.
+Since the [RERO Day](https://www.rero.ch/page.php?section=communique&pageid=reroday2019_fr) in March 2019, two versions of RERO ILS have been released. They provide a consolidation of the existing system, early support of the consortial model, an improvement of the search engine and circulation notifications.
 
 The version notes are as follows:
 
@@ -21,9 +21,9 @@ The version notes are as follows:
 
 This version highlights sprint 17 which aimed to solve as many identified problems as possible ([GitHub issues](https://github.com/rero/rero-ils/issues)), as well as to improve the quality of the code by increasing its coverage through [unit tests](https://en.wikipedia.org/wiki/Unit_testing) and by ensuring that it is better documented. At the end of the sprint, the code coverage by the tests increased from 77% to 89% (it now exceeds 91%) and there was no more uncommented code part left. Finally, 11 issues, listed at the end of the [release note](https://github.com/rero/rero-ils/releases/tag/v0.1.0a22), have been resolved.
 
-### Multiple organisations: {{< smallcaps "rero ils" >}} becomes multi-tenant
+### Multiple organisations: RERO ILS becomes multi-tenant
 
-In addition to improvements to the user interface, both professional and non-professional, and to the circulation module, the support of the consortial model has been implemented. By consortial model, we mean the existence of several **organisations**, most often including several **libraries**, which in turn cover several **locations**. The existence of more than one organisation in {{< smallcaps "rero ils" >}} implies that the data and actions of each organisation are properly isolated and processed.
+In addition to improvements to the user interface, both professional and non-professional, and to the circulation module, the support of the consortial model has been implemented. By consortial model, we mean the existence of several **organisations**, most often including several **libraries**, which in turn cover several **locations**. The existence of more than one organisation in RERO ILS implies that the data and actions of each organisation are properly isolated and processed.
 
 ### Better integration of ebooks
 
@@ -39,7 +39,7 @@ The next step is to improve the order in which the results are displayed, with a
 
 ### Loan notifications
 
-As for notifications, a new resource (a distinct object type) has been created in {{< smallcaps "rero ils" >}}, in order to manage them[^1]. This involves sending a notification (currently by e-mail and in English only, but [the next step is already planned](https://tree.taiga.io/project/rero21-reroils/us/703)) to the patron, for example when the requested book is available for him or her at the loan office, or when the due date for the borrowed documents is close.
+As for notifications, a new resource (a distinct object type) has been created in RERO ILS, in order to manage them[^1]. This involves sending a notification (currently by e-mail and in English only, but [the next step is already planned](https://tree.taiga.io/project/rero21-reroils/us/703)) to the patron, for example when the requested book is available for him or her at the loan office, or when the due date for the borrowed documents is close.
 
 ### Enhanced professional roles
 

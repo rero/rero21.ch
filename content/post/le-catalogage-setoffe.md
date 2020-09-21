@@ -7,7 +7,7 @@ tags: ["rero-ils", "release", "acquisition", "affichage", "métadonnées", "pré
 slug: le-catalogage-setoffe
 ---
 
-Un nouveau sprint se termine pour {{< smallcaps "rero ils" >}} avec une version bien fournie en nouveautés. Grâce à des fondations techniques de plus en plus stables, l'équipe de développement peut se concentrer sur des fonctionnalités orientées vers les utilisateurs et les utilisatrices. Les notes complètes de cette nouvelle version sont consultables comme d'habitude sur la page Github : [`v0.10.0`][1].
+Un nouveau sprint se termine pour RERO ILS avec une version bien fournie en nouveautés. Grâce à des fondations techniques de plus en plus stables, l'équipe de développement peut se concentrer sur des fonctionnalités orientées vers les utilisateurs et les utilisatrices. Les notes complètes de cette nouvelle version sont consultables comme d'habitude sur la page Github : [`v0.10.0`][1].
 
 <!--more-->
 
@@ -19,7 +19,7 @@ Le travail sur les interfaces publique et professionnelle se poursuit. Cette ver
 
 ## Importation de notices
 
-Le fait de pouvoir importer des notices de catalogues externes facilite et fluidifie une grande partie du travail de catalogage des bibliothécaires. {{< smallcaps "rero ils" >}} offre la possibilité de le faire via [le protocole SRU][2]. Il est possible de faire une requête par mots-clés (auteur, titre, date, ISBN, etc.) dans le catalogue choisi (à l'heure actuelle, seulement la BnF) et choisir la notice à importer. Celle-ci peut ensuite être librement éditée dans l'interface de catalogage avant son enregistrement. 
+Le fait de pouvoir importer des notices de catalogues externes facilite et fluidifie une grande partie du travail de catalogage des bibliothécaires. RERO ILS offre la possibilité de le faire via [le protocole SRU][2]. Il est possible de faire une requête par mots-clés (auteur, titre, date, ISBN, etc.) dans le catalogue choisi (à l'heure actuelle, seulement la BnF) et choisir la notice à importer. Celle-ci peut ensuite être librement éditée dans l'interface de catalogage avant son enregistrement. 
 
 ## Arrivée des fonctions de bulletinage
 

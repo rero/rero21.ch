@@ -5,7 +5,7 @@ draft: false
 tags: ["rero-ils", "workshops"]
 ---
 
-13 workshops, 11 towns, 8 cantons... and only one country of course. This completes the cycle of introductory workshops to {{< smallcaps "rero ils" >}} started at the end of November 2019 and carried out in both German- and French-speaking Switzerland. The RERO central office draws a generally positive balance of this action.
+13 workshops, 11 towns, 8 cantons... and only one country of course. This completes the cycle of introductory workshops to RERO ILS started at the end of November 2019 and carried out in both German- and French-speaking Switzerland. The RERO central office draws a generally positive balance of this action.
 
 <!--more-->
 
@@ -20,9 +20,9 @@ Overall, participants gave good feedback of the workshops via our online form. O
 
 Several participants encountered and noted technical problems that sometimes affected the running of the workshop. In addition, usability errors were highlighted as were some important functions that were missing from the system. Many expectations were expressed with regard to the other modules (cataloguing, acquisition, periodical management).
 
-Within the libraries involved in the transition to {{< smallcaps "rero ils" >}}, some people pointed out aspects that function differently than in the current system (Virtua) and expressed concern about the current state of developments for the upcoming transition.
+Within the libraries involved in the transition to RERO ILS, some people pointed out aspects that function differently than in the current system (Virtua) and expressed concern about the current state of developments for the upcoming transition.
 
-Several people highlighted the modern and innovative aspect of {{< smallcaps "rero ils" >}}. Overall, the interactivity of the workshop was very much appreciated.
+Several people highlighted the modern and innovative aspect of RERO ILS. Overall, the interactivity of the workshop was very much appreciated.
 
 ## Appraisal by the RERO central office
 

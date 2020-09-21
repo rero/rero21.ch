@@ -5,7 +5,7 @@ draft: false
 tags: ["rero-ils", "ateliers"]
 ---
 
-13 ateliers, 11 villes, 8 cantons... et 1 seul pays bien sûr. Ainsi s'achève le cycle des ateliers d'introduction à {{< smallcaps "rero ils" >}} débuté fin novembre 2019 et réalisé tant en Suisse alémanique qu'en Suisse romande. La centrale tire un bilan général positif de cette action.
+13 ateliers, 11 villes, 8 cantons... et 1 seul pays bien sûr. Ainsi s'achève le cycle des ateliers d'introduction à RERO ILS débuté fin novembre 2019 et réalisé tant en Suisse alémanique qu'en Suisse romande. La centrale tire un bilan général positif de cette action.
 
 <!--more-->
 
@@ -20,9 +20,9 @@ Globalement, les participant·e·s ont donné un bon retour des ateliers via not
 
 Plusieurs participant·e·s ont rencontré et relevé des problèmes techniques parfois gênants dans le déroulement de l'atelier. Par ailleurs, des erreurs d'ergonomie ont été mises en évidence ainsi que certaines fonctions importantes qui manquaient dans le système. Beaucoup d'attentes par rapport aux autres modules (catalogage, acquisition, bulletinage) ont été exprimées.
 
-Au sein des bibliothèques engagées dans la transition vers {{< smallcaps "rero ils" >}}, certaines personnes ont mis le doigt sur des aspects fonctionnant de manière différente du système actuel (Virtua) et on fait part de leur inquiétude en regard de l'état actuel des développements pour la transition à venir.
+Au sein des bibliothèques engagées dans la transition vers RERO ILS, certaines personnes ont mis le doigt sur des aspects fonctionnant de manière différente du système actuel (Virtua) et on fait part de leur inquiétude en regard de l'état actuel des développements pour la transition à venir.
 
-Plusieurs personnes ont mis en avant l'aspect moderne et novateur de {{< smallcaps "rero ils" >}}. L'interactivité de l'atelier a été globalement très appréciée.
+Plusieurs personnes ont mis en avant l'aspect moderne et novateur de RERO ILS. L'interactivité de l'atelier a été globalement très appréciée.
 
 ## Le bilan de la centrale
 

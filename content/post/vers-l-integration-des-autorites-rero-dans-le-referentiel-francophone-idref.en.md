@@ -5,7 +5,7 @@ draft: false
 tags: ["autorities", "idref", "rero-ils", "slsp"]
 ---
 
-The RERO network will be split into two groups of libraries by 2020-2021, one integrating the Swiss Library Services Platform (SLSP) and the other adopting the {{< smallcaps "rero ils" >}} solution. In order to avoid a situation leading to the creation of two divergent copies of its current French-language authority file, RERO decided to discontinue this file in favour of a solution that is more widely recognized and firmly rooted in a wider community, and that can be equally used by both SLSP and {{< smallcaps "rero ils" >}}.
+The RERO network will be split into two groups of libraries by 2020-2021, one integrating the Swiss Library Services Platform (SLSP) and the other adopting the RERO ILS solution. In order to avoid a situation leading to the creation of two divergent copies of its current French-language authority file, RERO decided to discontinue this file in favour of a solution that is more widely recognized and firmly rooted in a wider community, and that can be equally used by both SLSP and RERO ILS.
 
 <!--more-->
 
@@ -24,15 +24,15 @@ A more complete presentation of the scenario was given in November 2019 at the B
 
 * Input by the cataloguers and indexers of the new *proper nouns* authorities directly into IdRef via the web application
 * Linkage to IdRef and RERO-RAMEAU authorities by entering identifiers in the access points of bibliographic records
-* Separate management of the [RERO-RAMEAU (common nouns)](https://www.rero.ch/pdfview.php?section=ressources&filename=rameau_dans_le_reseau_suisse_rero_20141106.pdf) system, which we have been adapting since 2012 to post-coordinated indexing, with monthly transfers to Alma/SLSP and MEF/{{< smallcaps "rero ils" >}}
-* Regular harvesting of [IdRef's OAI PMH server](http://www.abes.fr/Autorites-et-referentiels/Services-disponibles/Entrepot-OAI-PMH-IdRef) to to Alma/SLSP and MEF/{{< smallcaps "rero ils" >}} for updates
+* Separate management of the [RERO-RAMEAU (common nouns)](https://www.rero.ch/pdfview.php?section=ressources&filename=rameau_dans_le_reseau_suisse_rero_20141106.pdf) system, which we have been adapting since 2012 to post-coordinated indexing, with monthly transfers to Alma/SLSP and MEF/RERO ILS
+* Regular harvesting of [IdRef's OAI PMH server](http://www.abes.fr/Autorites-et-referentiels/Services-disponibles/Entrepot-OAI-PMH-IdRef) to to Alma/SLSP and MEF/RERO ILS for updates
 * Transmission of the RAMEAU suggestions to the BnF by the RAMEAU correspondents of the French-speaking SLSP and RERO sites, as up to now
 
 ### Preparation stages
 
 1. The RERO *proper nouns* authority file stops being fed before the go-live of the end of 2020
 1. RERO authorities are integrated into IdRef through alignments, enrichments and additions for the persons, collective agents, geographical names and titles entities
-1. IdRef is integrated into {{< smallcaps "rero ils" >}} (through MEF) and into Alma’s Community Zone in MARC 21 format
+1. IdRef is integrated into RERO ILS (through MEF) and into Alma’s Community Zone in MARC 21 format
 
 {{< figure src="/img/migration_idref.png" caption="Transition from RERO authorities to IdRef" alt="Figure: Transition from RERO authorities to IdRef" >}}
 

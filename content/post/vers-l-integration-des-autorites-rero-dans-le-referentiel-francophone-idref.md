@@ -5,7 +5,7 @@ draft: false
 tags: ["autorités", "idref", "rero-ils", "slsp"]
 ---
 
-Le réseau RERO sera scindé en deux groupes de bibliothèques à l’horizon 2020-2021, les unes intégrant la Swiss Library Services Platform (SLSP) et les autres adoptant la solution {{< smallcaps "rero ils" >}}. Afin d’éviter que cette situation entraîne la création de deux copies divergentes de son fichier d’autorités francophones actuel, RERO a souhaité l’arrêt de ce fichier au profit d’une solution plus reconnue et ancrée sur une communauté plus large, et pouvant être adoptée simultanément par SLSP et {{< smallcaps "rero ils" >}}. 
+Le réseau RERO sera scindé en deux groupes de bibliothèques à l’horizon 2020-2021, les unes intégrant la Swiss Library Services Platform (SLSP) et les autres adoptant la solution RERO ILS. Afin d’éviter que cette situation entraîne la création de deux copies divergentes de son fichier d’autorités francophones actuel, RERO a souhaité l’arrêt de ce fichier au profit d’une solution plus reconnue et ancrée sur une communauté plus large, et pouvant être adoptée simultanément par SLSP et RERO ILS. 
 
 <!--more-->
 
@@ -24,15 +24,15 @@ Une présentation plus complète du scénario a été faite en novembre 2019 à 
 
 * Saisie par les catalogueurs et indexeurs des nouvelles autorités noms propres directement dans IdRef via l’application web
 * Établissement des liens aux autorités IdRef et RERO-RAMEAU par la saisie des identifiants dans les points d’accès des notices bibliographiques
-* Gestion séparée du référentiel [RERO-RAMEAU (noms communs)](https://www.rero.ch/pdfview.php?section=ressources&filename=rameau_dans_le_reseau_suisse_rero_20141106.pdf), que nous adaptons depuis 2012 à l’indexation post-coordonnée, avec transferts mensuels vers Alma/SLSP et MEF/{{< smallcaps "rero ils" >}}
-* Moissonnage régulier du [serveur OAI PMH d’IdRef](http://www.abes.fr/Autorites-et-referentiels/Services-disponibles/Entrepot-OAI-PMH-IdRef) vers Alma/SLSP et MEF/{{< smallcaps "rero ils" >}} pour les mises à jour
+* Gestion séparée du référentiel [RERO-RAMEAU (noms communs)](https://www.rero.ch/pdfview.php?section=ressources&filename=rameau_dans_le_reseau_suisse_rero_20141106.pdf), que nous adaptons depuis 2012 à l’indexation post-coordonnée, avec transferts mensuels vers Alma/SLSP et MEF/RERO ILS
+* Moissonnage régulier du [serveur OAI PMH d’IdRef](http://www.abes.fr/Autorites-et-referentiels/Services-disponibles/Entrepot-OAI-PMH-IdRef) vers Alma/SLSP et MEF/RERO ILS pour les mises à jour
 * Transmission des propositions RAMEAU à la BnF par les correspondants RAMEAU des sites romands SLSP et RERO, comme jusqu'à présent
 
 ### Étapes préparatoires
 
 1. Arrêt de l’alimentation des fichiers d’autorité RERO *noms propres* avant les go-live de fin 2020,
 1. Intégration des autorités RERO dans IdRef par le biais d’alignements, d’enrichissements et d’ajouts pour les entités personnes, collectivités noms géographiques et titres, 
-1. Intégration d’IdRef dans {{< smallcaps "rero ils" >}} (via MEF) et dans la Community Zone d’Alma en MARC 21
+1. Intégration d’IdRef dans RERO ILS (via MEF) et dans la Community Zone d’Alma en MARC 21
 
 {{< figure src="/img/migration_idref.png" caption="Transition des autorités RERO vers IdRef" alt="Schema: Transition des autorités RERO vers IdRef" >}}
 

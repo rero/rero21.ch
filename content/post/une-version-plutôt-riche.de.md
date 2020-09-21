@@ -5,7 +5,7 @@ draft: false
 tags: ["rero-ils", "release", "suche", "ausleihe", "metadaten", "anzeige"]
 ---
 
-Eine neue Version von {{< smallcaps "rero ils" >}} wurde veröffentlicht,
+Eine neue Version von RERO ILS wurde veröffentlicht,
 ziemlich reich an Neuheiten, was uns natürlich erfreut. Nachstehend finden Sie
 eine kurze Zusammenfassung der wichtigsten neuen Funktionen. Die vollständigen,
 aber technischen Versionshinweise sind über das GitHub-Projekt erhältlich:
@@ -24,7 +24,7 @@ Suchfunktionalitäten überarbeitet, und die Verbesserungen sind bemerkbar.
 
 ## Geschlossene Silos
 
-[UCLouvain][3], der aktiv an der Entwicklung von {{< smallcaps "rero ils" >}}
+[UCLouvain][3], der aktiv an der Entwicklung von RERO ILS
 mitarbeitet, hatte die Implementierung von *geschlossenen Silos* vorgeschlagen,
 d.h. die Möglichkeit, für jeden Standort die Bestellungen zu blockieren oder
 die Abholorte einzuschränken. Sobald gesagt, sobald getan: [UCLouvain][3] hat
@@ -48,7 +48,7 @@ Die Arbeit an der Implementierung des Datenmodells setzt sich in den Bereichen
 der physischen Beschreibung der Dokumente fort: Umfang, Dauer, Format,
 Illustrationen, Farben und Begleitmaterial. Diese Felder basieren eindeutig auf
 dem RDA-Standard, mit einer feineren Granularität, während in 
-{{< smallcaps "marc" >}} verschiedene Arten von Informationen innerhalb 
+MARC verschiedene Arten von Informationen innerhalb 
 desselben Unterfeldes gruppiert wurden. Bei der Arbeit an der Anzeige dieser
 Felder im Datensatz (in der Detailansicht der Dokumente) wurde die Anzeige
 überarbeitet und verbessert: wesentliche Informationen werden oben

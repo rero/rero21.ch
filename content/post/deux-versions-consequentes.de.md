@@ -6,8 +6,8 @@ draft: false
 tags: ["rero-ils", "release"]
 ---
 
-Bei {{< smallcaps "rero" >}} erleben wir gerade eine Beschleunigung der
-Raumzeit, insbesondere im Projekt {{< smallcaps "rero ils" >}}, und in dieser
+Bei RERO erleben wir gerade eine Beschleunigung der
+Raumzeit, insbesondere im Projekt RERO ILS, und in dieser
 Eile "vergassen" wir, Sie zu informieren, dass zwei neue Versionen
 veröffentlicht worden sind!
 
@@ -44,7 +44,7 @@ nach jeder Aktion zu vermeiden, während die öffentliche Schnittstelle einfache
 von Suchmaschinen indiziert werden kann, wenn die Seiten statisch sind, was für
 bibliographische Datensätze relevant ist. Schliesslich erlaubt diese Wahl,
 einen Teil der professionellen Schnittstelle zwischen den Projekten 
-{{< smallcaps "rero ils" >}} und [{{< smallcaps "sonar" >}}](https://sonar.ch)
+RERO ILS und [SONAR](https://sonar.ch)
 zu verteilen und somit die Entwicklungsanstrengungen zu bündeln[^2].
 
 Die Entwicklung von `v0.6.0` wurde massgeblich durch die durchgeführten
@@ -53,8 +53,8 @@ für [die Tests von Pilotbibliotheken](/de/rero-ils-s-expose-aux-tests)
 bestimmt. Unter diesem Blickpunkt ist es nun möglich, die Anzeigen
 verschiedener Organisationen mit einer spezifischen Header-Farbe und einem
 spezifischen Logo anzupassen. Am wichtigsten ist, dass die Prozesse für die
-Datenmigration von Virtua nach {{< smallcaps "rero ils" >}} vervollständigt
-wurden, um echte Daten für eine {{< smallcaps "rero" >}}-Institution zu
+Datenmigration von Virtua nach RERO ILS vervollständigt
+wurden, um echte Daten für eine RERO-Institution zu
 importieren.
 
 Die Schnittstelle für das Ausleihmodul wurde neu gestaltet und bietet nun mehr
@@ -96,7 +96,6 @@ Fachleute zur Verfügung zu stellen.
 [^2]: Für diejenigen, welche hinter die Fassade schauen möchten, hat diese
   Änderung zur Erstellung von zwei weiteren Repositorien auf GitHub geführt,
   für zwei Angular Projekte: [ng-core](https://github.com/rero/ng-core), das
-  die Gemeinsamkeiten von {{< smallcaps "rero ils" >}} und {{< smallcaps
-  "sonar" >}}zusammenführt, sowie
-  [rero-ils-ui](https://github.com/rero/rero-ils-ui), das die {{< smallcaps
-  "rero ils" >}} Version der professionellen Schnittstelle implementiert.
+  die Gemeinsamkeiten von RERO ILS und SONAR zusammenführt, sowie
+  [rero-ils-ui](https://github.com/rero/rero-ils-ui), das die RERO ILS Version 
+  der professionellen Schnittstelle implementiert.
