@@ -6,13 +6,13 @@ draft: false
 tags: ["rero-ils", "acquisition", "prédictions", "bibliothèques pilotes"]
 ---
 
-Certain·e·s les adorent, d'autres les détestent. Aujourd'hui, nous nous penchons sur les prédictions et leur périodicité parmi les données des bibliothèques pilotes de {{< smallcaps "rero ils" >}}. Effectivement, le travail sur l'implémentation de la fonction de bulletinage mène la centrale RERO à analyser cet aspect en se basant sur les données existantes. (Pour les experts, ces prédictions se trouvent dans le champ MARC 853 des holdings.)
+Certain·e·s les adorent, d'autres les détestent. Aujourd'hui, nous nous penchons sur les prédictions et leur périodicité parmi les données des bibliothèques pilotes de RERO ILS. Effectivement, le travail sur l'implémentation de la fonction de bulletinage mène la centrale RERO à analyser cet aspect en se basant sur les données existantes. (Pour les experts, ces prédictions se trouvent dans le champ MARC 853 des holdings.)
 
 Après extraction des données, nous avons découvert des chiffres intéressants. Nous souhaitons les partager ici, car on y trouve certaines similitudes et différences entre bibliothèques.
 
 <!--more-->
 
-[Pour rappel](/rero-ils-s-expose-aux-tests), nous développons {{< smallcaps "rero ils" >}} avec l'aide de bibliothèques pilotes, qui testent le système et nous fournissent un retour d'expérience de la part de professionnel·le·s du terrain. Nos six bibliothèques pilotes sont les suivantes:
+[Pour rappel](/rero-ils-s-expose-aux-tests), nous développons RERO ILS avec l'aide de bibliothèques pilotes, qui testent le système et nous fournissent un retour d'expérience de la part de professionnel·le·s du terrain. Nos six bibliothèques pilotes sont les suivantes:
 
 * [Bibliothèque cantonale jurassienne](https://www.jura.ch/occ/bicj)
 * [Bibliothèque de Bulle](https://musee-gruerien.ch/)

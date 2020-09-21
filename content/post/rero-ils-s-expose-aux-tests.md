@@ -5,7 +5,7 @@ draft: false
 tags: ["rero-ils", "tests", "bibliothèques pilotes"]
 ---
 
-RERO lance une première phase de tests sur {{< smallcaps "rero ils" >}} en ce mois de mars.
+RERO lance une première phase de tests sur RERO ILS en ce mois de mars.
 
 Après avoir mis son logiciel à l'épreuve de la communauté professionnelle suisse lors d'un premier cycle d'ateliers, la centrale a pu récolter un bon nombre de retours sur l'utilisation et l'utilisabilité du système. RERO souhaite à présent poursuivre cette démarche d'amélioration de manière formelle, en ouvrant une phase de tests avec certaines bibliothèques pilotes.
 
@@ -13,20 +13,20 @@ Après avoir mis son logiciel à l'épreuve de la communauté professionnelle su
 
 ### Objectifs des tests
 
-Comme {{< smallcaps "rero ils" >}} se trouve encore en phase de développement, cette approche sera quelque peu exploratoire. Les objectifs sont les suivants:
+Comme RERO ILS se trouve encore en phase de développement, cette approche sera quelque peu exploratoire. Les objectifs sont les suivants:
 
 * Adopter une démarche participative (codéveloppement) avec la communauté professionnelle
 * Identifier des problèmes d'ergonomie (fonctionnalités existantes mais inutilisables en l'état)
 * Identifier d’éventuelles fonctionnalités manquantes et non planifiées
 * Identifier des bugs
-* Mettre à l’épreuve {{< smallcaps "rero ils" >}} avec de grandes quantités de données réelles
+* Mettre à l’épreuve RERO ILS avec de grandes quantités de données réelles
 * Recueillir un avis général
-* Établir un échange avec et entre les bibliothèques pilotes, ciblé sur des aspects précis de {{< smallcaps "rero ils" >}} 
+* Établir un échange avec et entre les bibliothèques pilotes, ciblé sur des aspects précis de RERO ILS 
 * Concrétiser progressivement le nouveau système afin de préparer un changement le plus agréable possible pour les bibliothécaires
 
 ### Déroulement et étendue des tests
 
-La phase de test a une durée prévue de deux semaines, mais peut être adaptée selon les disponibilités des bibliothèques. Elle est effectuée sur la [version 0.6.1](https://github.com/rero/rero-ils/releases/tag/v0.6.1) de {{< smallcaps "rero ils" >}}, et concerne essentiellement trois volets:
+La phase de test a une durée prévue de deux semaines, mais peut être adaptée selon les disponibilités des bibliothèques. Elle est effectuée sur la [version 0.6.1](https://github.com/rero/rero-ils/releases/tag/v0.6.1) de RERO ILS, et concerne essentiellement trois volets:
 
 1. Circulation/prêt
 2. Interface publique

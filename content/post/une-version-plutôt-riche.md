@@ -6,7 +6,7 @@ tags: ["rero-ils", "release", "recherche", "circulation", "métadonnées", "affi
 slug: une-version-plutot-riche
 ---
 
-Une nouvelle version de {{< smallcaps "rero ils" >}} a été publiée, plutôt
+Une nouvelle version de RERO ILS a été publiée, plutôt
 riche en nouvelles fonctionnalités, ce qui nous fait bien entendu plaisir.
 Ci-dessous, un rapide résumé des nouveautés principales. Les notes de version
 complètes, mais techniques, en anglais, sont disponibles sur le projet GitHub :
@@ -27,7 +27,7 @@ et les améliorations sont sensibles.
 ## Des silos fermés
 
 [UCLouvain][3], qui collabore activement au développement de 
-{{< smallcaps "rero ils" >}}, avait proposé l'implémentation des *silos 
+RERO ILS, avait proposé l'implémentation des *silos 
 fermés*, à savoir la possibilité de bloquer les demandes ou de restreindre les
 lieux de retrait pour une localisation donnée. Après l'avoir proposé,
 [UCLouvain][3] l'a réalisé.
@@ -50,7 +50,7 @@ Le travail d'implémentation du modèle de données continue avec les champs de
 description physique des documents : l'importance matérielle, la durée, le
 format, les illustrations, les couleurs et les éléments matériels. Ces champs
 sont clairement basés sur le standard RDA, avec une granularité plus fine,
-alors que {{< smallcaps "marc" >}} regroupait différents types d'informations
+alors que MARC regroupait différents types d'informations
 au sein d'un même sous-champ. Lors du travail pour afficher ces champs dans la
 notice (la vue détaillée des documents), la présentation a été revue et
 améliorée : les informations essentielles sont mises en évidence en haut et les

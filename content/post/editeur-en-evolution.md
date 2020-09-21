@@ -6,7 +6,7 @@ draft: false
 tags: ["rero-ils", "release", "affichage", "métadonnées"]
 ---
 
-Nouveau mois écoulé, nouvelle version de {{< smallcaps "rero ils" >}} disponible sur [l'interface de test][1]. Le travail de l'équipe de développement pour améliorer le logiciel continue avec une nouvelle mise à jour qui devrait intéresser les catalogueurs et catalogueuses. Les notes de version plus complètes se trouvent sur Github : [`v0.11.0`][2].
+Nouveau mois écoulé, nouvelle version de RERO ILS disponible sur [l'interface de test][1]. Le travail de l'équipe de développement pour améliorer le logiciel continue avec une nouvelle mise à jour qui devrait intéresser les catalogueurs et catalogueuses. Les notes de version plus complètes se trouvent sur Github : [`v0.11.0`][2].
 
 <!--more-->
 

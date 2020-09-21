@@ -6,8 +6,8 @@ draft: false
 tags: ["rero-ils", "release"]
 ---
 
-At {{< smallcaps "rero" >}}, we're witnessing an acceleration of space-time,
-especially in the {{< smallcaps "rero ils" >}} project, and in this haste, we
+At RERO, we're witnessing an acceleration of space-time,
+especially in the RERO ILS project, and in this haste, we
 "forgot" to inform you that two new releases have been published!
 
 Below, a summary of the added features of these releases is proposed, but the
@@ -37,8 +37,8 @@ reader. Furthermore, the professional interface benefits from being dynamic, in
 order to avoid recharging the page after each action, while the public
 interface is more easily indexed by search engines if the pages are static,
 which is relevant for bibliographic records. Finally, this choice allows to
-share part of the professional interface between {{< smallcaps "rero ils" >}}
-and [{{< smallcaps "sonar" >}}](https://sonar.ch) projects and, thus, to
+share part of the professional interface between RERO ILS
+and [SONAR](https://sonar.ch) projects and, thus, to
 mutualize the development effort[^2].
 
 The development of `v0.6.0` has been largely determined by the
@@ -46,8 +46,8 @@ The development of `v0.6.0` has been largely determined by the
 instance for [pilot libraries’ tests](/en/rero-ils-s-expose-aux-tests). From
 this point of view, it is now possible to customize the views of different
 organizations with a specific header colour and logo. Most importantly, the
-processes for Virtua's data migration to {{< smallcaps "rero ils" >}} have been
-completed in order to import an entire {{< smallcaps "rero" >}} institution.
+processes for Virtua's data migration to RERO ILS have been
+completed in order to import an entire RERO institution.
 
 The interface for the circulation module has been redesigned and now offers
 more information on circulation events upon return of items requested, late or
@@ -84,7 +84,7 @@ available for the professional.
 [^2]: For those of you who are interested in how it works under the hood, this
   change resulted in the creation of two more repositories on GitHub:
   [ng-core](https://github.com/rero/ng-core), an angular project that brings
-  together what's common to {{< smallcaps "rero ils" >}} and {{< smallcaps
-  "sonar" >}}, as well as [rero-ils-ui](https://github.com/rero/rero-ils-ui),
-  also an angular project that implements the {{< smallcaps "rero ils" >}} of
+  together what's common to RERO ILS and SONAR, as well as 
+  [rero-ils-ui](https://github.com/rero/rero-ils-ui),
+  also an angular project that implements the RERO ILS of
   the professional interface.

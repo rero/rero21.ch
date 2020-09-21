@@ -7,7 +7,7 @@ tags: ["rero-ils", "release", "acquisition", "display", "metadata", "predictions
 slug: le-catalogage-setoffe
 ---
 
-A new sprint ends for {{< smallcaps "rero ils" >}} with a version full of new features. Thanks to an increasingly stable technical foundation, the development team can now focus on user-oriented functionality. The full release notes are available as usual on Github: [`v0.10.0`][1].
+A new sprint ends for RERO ILS with a version full of new features. Thanks to an increasingly stable technical foundation, the development team can now focus on user-oriented functionality. The full release notes are available as usual on Github: [`v0.10.0`][1].
 
 <!--more-->
 
@@ -19,7 +19,7 @@ UI work on the public and professional interfaces continues. This version brings
 
 ## Importing records
 
-Being able to import records from external catalogues streamlines much of the cataloguing work for librarians. {{< smallcaps "rero ils" >}} offers the possibility to do so via [the SRU protocol][2]. The librarian can search for the desired record in the selected catalogue (currently only BnF) using a simple query (keywords for the author, title, date, ISBN…). They can choose the record that they want to import. This record can then be freely edited in the cataloguing interface before being saved.
+Being able to import records from external catalogues streamlines much of the cataloguing work for librarians. RERO ILS offers the possibility to do so via [the SRU protocol][2]. The librarian can search for the desired record in the selected catalogue (currently only BnF) using a simple query (keywords for the author, title, date, ISBN…). They can choose the record that they want to import. This record can then be freely edited in the cataloguing interface before being saved.
 
 ## New feature: receive an issue
 

@@ -6,7 +6,7 @@ draft: false
 tags: ["rero-ils", "release", "Anzeige", "Metadaten"]
 ---
 
-Neuer Monat verstrichen, neue Version von {{< smallcaps "rero ils" >}} auf [der Testoberfläche][1] verfügbar. Die Arbeit des Entwicklungsteams zur Verbesserung der Software wird mit einem neuen Update fortgesetzt, das für Katalogisierer·innen von Interesse sein dürfte. Vollständigere Versionshinweise sind auf Github zu finden: [`v0.11.0`][2].
+Neuer Monat verstrichen, neue Version von RERO ILS auf [der Testoberfläche][1] verfügbar. Die Arbeit des Entwicklungsteams zur Verbesserung der Software wird mit einem neuen Update fortgesetzt, das für Katalogisierer·innen von Interesse sein dürfte. Vollständigere Versionshinweise sind auf Github zu finden: [`v0.11.0`][2].
 
 <!--more-->
 

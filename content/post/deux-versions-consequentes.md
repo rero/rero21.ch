@@ -6,8 +6,8 @@ draft: false
 tags: ["rero-ils", "release"]
 ---
 
-On assiste à une accélération de l'espace temps à {{< smallcaps "rero" >}},
-tout particulièrement dans le projet {{< smallcaps "rero ils" >}}, et dans
+On assiste à une accélération de l'espace temps à RERO,
+tout particulièrement dans le projet RERO ILS, et dans
 cette précipitation, nous avons « oublié » de vous prévenir que deux nouvelles
 versions ont été publiées !
 
@@ -41,7 +41,7 @@ la page après chaque action, alors que l'interface publique est plus aisément
 indexée par les moteurs de recherche si les pages sont statiques, ce qui est
 pertinent pour les notices bibliographiques. Enfin, ce choix
 permet de partager une partie de l'interface professionnelle entre les projets
-{{< smallcaps "rero ils" >}} et [{{< smallcaps "sonar" >}}](https://sonar.ch)
+RERO ILS et [SONAR](https://sonar.ch)
 et, ainsi, de mutualiser l'effort de développement[^2].
 
 Le développement de la `v0.6.0` a été en bonne partie guidé par la réalisation
@@ -50,8 +50,7 @@ pour les [tests des bibliothèques pilotes](/rero-ils-s-expose-aux-tests). De ce
 point de vue, il est désormais possible de personnaliser les vues des
 différentes organisations par une couleur spécifique de l'entête et un logo.
 Mais surtout, les processus de migration ont été définis et développés, afin de
-de récupérer les données réelles de Virtua pour un site {{< smallcaps "rero"
->}}.
+de récupérer les données réelles de Virtua pour un site RERO.
 
 L'interface du module de prêt a été revisitée et présente désormais plus
 d'information sur les événements de circulation lors des retours d'exemplaires
@@ -93,7 +92,7 @@ professionnelle.
 [^2]: Pour celles et ceux que les dessous du capot intéressent, ce changement
  s'est traduit par la création de deux autres dépôts sur GitHub :
  [ng-core](https://github.com/rero/ng-core), un projet angular qui rassemble
- ce qui est commun à {{< smallcaps "rero ils" >}} et {{< smallcaps "sonar"
- >}}, et [rero-ils-ui](https://github.com/rero/rero-ils-ui), également un
- projet angular qui implémente la version {{< smallcaps "rero ils" >}} de
+ ce qui est commun à RERO ILS et SONAR, et [rero-ils-ui]
+ (https://github.com/rero/rero-ils-ui), également un
+ projet angular qui implémente la version RERO ILS de
  l'interface professionnelle.

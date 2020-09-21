@@ -12,7 +12,7 @@ vorbei ist und der [Sprint
 30](https://tree.taiga.io/project/rero21-reroils/wiki/sprint-info-page-30)
 bereits begonnen hat, wird die [Version
 `v0.8.0`](https://github.com/rero/rero-ils/releases/tag/v0.8.0) von 
-{{< smallcaps "rero ils" >}} veröffentlicht ([vollständige
+RERO ILS veröffentlicht ([vollständige
 Versionshinweise](https://github.com/rero/rero-ils/blob/master/RELEASE-NOTES.rst#v080)).
 Es folgt ein kurzer Überblick der Neuigkeiten.
 
@@ -57,7 +57,7 @@ arbeitet am häufigsten mit den zu ihrem Netzwerk gehörenden Exemplaren. Eine
 neue hierarchische Facette, bei der die betreffende Organisation standardmässig
 ausgewählt ist, ermöglicht es, die Ergebnisse auf eine bestimmte Bibliothek zu
 beschränken, oder im Gegenteil, sie auf den gesamten Katalog aller
-Organisationen von {{< smallcaps "rero ils" >}} auszudehnen. So kann man zum
+Organisationen von RERO ILS auszudehnen. So kann man zum
 Beispiel ein Exemplar zu einem bibliographischen Record anhängen, der nur in
 einer anderen Organisation existiert.\
 Dieser Standardfilter gilt auch für Suchvorschläge im Hauptsuchfeld.
@@ -68,7 +68,7 @@ Dieser Standardfilter gilt auch für Suchvorschläge im Hauptsuchfeld.
 
 Abschliessend kann festgestellt werden, dass die Personenautoritäten des
 IdRef-Referenzsystems dem mehrsprachigen Autoritätsserver
-[{{< smallcaps "mef" >}}](https://mef.test.rero.ch) hinzugefügt wurden und in
-{{< smallcaps "rero ils" >}} sichtbar sind. Dies wurde im Hinblick auf den Tag
-durchgeführt, an dem die {{< smallcaps "rero" >}}-Autoritäten in IdRef migriert
+[MEF](https://mef.test.rero.ch) hinzugefügt wurden und in
+RERO ILS sichtbar sind. Dies wurde im Hinblick auf den Tag
+durchgeführt, an dem die RERO-Autoritäten in IdRef migriert
 werden.

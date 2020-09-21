@@ -60,7 +60,7 @@ travaillant le plus souvent sur les exemplaires appartenant à son réseau. Une
 nouvelle facette hiérarchique, avec l'organisation concernée sélectionnée par
 défaut, permet de restreindre les résultats à une bibliothèque particulière, ou
 au contraire d'étendre la recherche à l'ensemble du catalogue des organisations
-de {{< smallcaps "rero ils" >}}, afin par exemple de se raccrocher à une notice
+de RERO ILS, afin par exemple de se raccrocher à une notice
 bibliographique existant dans une autre organisation.\
 Ce filtre par défaut s'applique également aux suggestions de recherche
 proposées lorsque l'on tape une requête.
@@ -71,6 +71,6 @@ proposées lorsque l'on tape une requête.
 
 Enfin, on peut noter que les autorités personnes du fichier d'autorité IdRef
 ont été ajoutées au serveur d'autorités multilingues
-[{{< smallcaps "mef" >}}](https://mef.test.rero.ch) et sont visibles dans
-{{< smallcaps "rero ils" >}}, en vue du jour où les autorités
-{{< smallcaps "rero" >}} seront versées dans ce fichier.
+[MEF](https://mef.test.rero.ch) et sont visibles dans
+RERO ILS, en vue du jour où les autorités
+RERO seront versées dans ce fichier.

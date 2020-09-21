@@ -6,14 +6,14 @@ draft: false
 tags: ["rero-ils", "acquisition", "predictions", "pilot libraries"]
 ---
 
-Some love them, some hate them. Today we look into predictions and their periodicity among the data from the {{< smallcaps "rero ils" >}} pilot libraries. Indeed, the work on the implementation of the serial function is leading the RERO central office to analyze this aspect based on existing data. (For the experts, these predictions can be found in the MARC field 853 of the holdings).
+Some love them, some hate them. Today we look into predictions and their periodicity among the data from the RERO ILS pilot libraries. Indeed, the work on the implementation of the serial function is leading the RERO central office to analyze this aspect based on existing data. (For the experts, these predictions can be found in the MARC field 853 of the holdings).
 
 After extracting the data, we came across some interesting figures. We would like to share them here, as there are some similarities and differences between libraries.
 
 <!--more-->
 
 
-[As explained in a previous post](/en/rero-ils-s-expose-aux-tests), we are developing {{< smallcaps "rero ils" >}} with the help of pilot libraries, which are testing the system and providing us with feedback from field professionals. Our six pilot libraries are the following:
+[As explained in a previous post](/en/rero-ils-s-expose-aux-tests), we are developing RERO ILS with the help of pilot libraries, which are testing the system and providing us with feedback from field professionals. Our six pilot libraries are the following:
 
 * [Jura Cantonal Library](https://www.jura.ch/occ/bicj)
 * [Library of Bulle](https://musee-gruerien.ch/)

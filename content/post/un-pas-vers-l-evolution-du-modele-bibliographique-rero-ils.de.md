@@ -5,7 +5,7 @@ draft: false
 tags: ["rero ils", "enrichment", "lrm", "works", "bibliostratus", "data alignment"]
 ---
 
-Werk, Expression, Manifestation, Exemplar, ein, zwei, drei, vier... Steter Refrain, mit dem die Mitarbeitenden in Bibliotheken nun vertraut sind. In der Tat werden diese vier Konzepte regelmässig auf Fachkonferenzen und in bibliothekswissenschaftlichen Kursen skandiert. Im Allgemeinen spiegeln sie eine Entwicklung der bibliographischen Modellen (LRM), der Katalogisierungsregeln (RDA) und der Datenaustauschformaten (Bibframe) wider. Unsere französischen Nachbarn nennen diese Bewegung "Transition bibliographique". Und das Projekt {{< smallcaps "rero ils" >}} entkommt ihr nicht, ganz im Gegenteil: es ist voll davon durchdrungen. Die Nutzung von Bibliostratus zeigt dies.
+Werk, Expression, Manifestation, Exemplar, ein, zwei, drei, vier... Steter Refrain, mit dem die Mitarbeitenden in Bibliotheken nun vertraut sind. In der Tat werden diese vier Konzepte regelmässig auf Fachkonferenzen und in bibliothekswissenschaftlichen Kursen skandiert. Im Allgemeinen spiegeln sie eine Entwicklung der bibliographischen Modellen (LRM), der Katalogisierungsregeln (RDA) und der Datenaustauschformaten (Bibframe) wider. Unsere französischen Nachbarn nennen diese Bewegung "Transition bibliographique". Und das Projekt RERO ILS entkommt ihr nicht, ganz im Gegenteil: es ist voll davon durchdrungen. Die Nutzung von Bibliostratus zeigt dies.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Bibliostratus unterstützt die Abstimmung von Manifestationen und Autoritäten (
 
 ##### Welchen Nutzen hat RERO ILS?
 
-Das bibliographische Modell von {{< smallcaps "rero ils" >}} beinhaltet die Entität "Werk", zur Zeit nicht im Katalog. Allerdings stellt die automatische Generierung der Werke auf der Grundlage der Manifestationen ein äusserst komplexer Prozess dar, welcher starke Bemühungen erfordert, wenn die Daten der Definition von "Werk" gemäss LRM entsprechen sollen.
+Das bibliographische Modell von RERO ILS beinhaltet die Entität "Werk", zur Zeit nicht im Katalog. Allerdings stellt die automatische Generierung der Werke auf der Grundlage der Manifestationen ein äusserst komplexer Prozess dar, welcher starke Bemühungen erfordert, wenn die Daten der Definition von "Werk" gemäss LRM entsprechen sollen.
 
 In der gegenwärtigen Situation verfügt RERO nicht über die Mittel, um solche Entwicklungen durchzuführen. Hingegen geben sich die BnF und die Abes die Möglichkeit, diese Anreicherungen und Abgleiche zu machen. Durch einen Prozess in Etappen und mit Teilmengen von Daten, um eine bestimmte Qualität zu gewährleisten, hat die BnF bereits Tausende von Werk-Manifestation-Links in ihre Produktionsdatenbank integriert[^2]. Die Abes seinerseits untersucht die Möglichkeiten ihrer CBS-Software mit demselben Ziel[^3].
 

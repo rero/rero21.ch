@@ -52,7 +52,7 @@ the organization of the connected person, as he or she works mostly on items
 belonging to his/her network. A new organizational facet, with the relevant
 organization selected by default, allows to restrict the results to a specific
 library, or on the contrary to extend the search to the entire catalogue of
-{{< smallcaps "rero ils" >}} organizations, for instance to attach an item to an
+RERO ILS organizations, for instance to attach an item to an
 existing bibliographic record of another organization.\
 This default filter also applies to the search suggestions generated when
 typing a request.
@@ -63,6 +63,6 @@ typing a request.
 
 Finally, it can be pointed out that the person authorities of the IdRef
 authority file have been added to the multilingual authority server
-[{{< smallcaps "mef" >}}](https://mef.test.rero.ch) and are visible in
-{{< smallcaps "rero ils" >}}, in view of the day when the
-{{< smallcaps "rero" >}} authorities will be uploaded to this file.
+[MEF](https://mef.test.rero.ch) and are visible in
+RERO ILS, in view of the day when the
+RERO authorities will be uploaded to this file.

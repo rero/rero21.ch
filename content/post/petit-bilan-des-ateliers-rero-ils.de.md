@@ -5,7 +5,7 @@ draft: false
 tags: ["rero-ils", "workshops"]
 ---
 
-13 Workshops, 11 Städte, 8 Kantone... und natürlich nur ein Land. Damit ist der Workshop-Zyklus zur Einführung in {{< smallcaps "rero ils" >}} abgeschlossen, der Ende November 2019 begonnen hatte und sowohl in der Deutsch- als auch in der Westschweiz durchgeführt wurde.
+13 Workshops, 11 Städte, 8 Kantone... und natürlich nur ein Land. Damit ist der Workshop-Zyklus zur Einführung in RERO ILS abgeschlossen, der Ende November 2019 begonnen hatte und sowohl in der Deutsch- als auch in der Westschweiz durchgeführt wurde.
 
 <!--more-->
 
@@ -20,9 +20,9 @@ Im Allgemeinen gaben die Teilnehmenden über unser Online-Formular ein gutes Fee
 
 Mehrere Teilnehmenden stiessen auf technische Probleme, die manchmal den Verlauf des Workshops behinderten, und haben diese gemeldet. Ausserdem wurden ergonomische Fehler sowie einige wichtige Funktionen, die im System fehlten, aufgedeckt. Viele Erwartungen wurden in Bezug auf die anderen Module (Katalogisierung, Erwerbung, Zeitschriftenverwaltung) geäussert.
 
-Innerhalb der Bibliotheken, die am Übergang zu {{< smallcaps "rero ils" >}} beteiligt sind, wiesen einige Personen auf Aspekte hin, die anders als im derzeitigen System (Virtua) funktionieren, und äusserten sich besorgt über den aktuellen Stand der Entwicklungen für den bevorstehenden Übergang.
+Innerhalb der Bibliotheken, die am Übergang zu RERO ILS beteiligt sind, wiesen einige Personen auf Aspekte hin, die anders als im derzeitigen System (Virtua) funktionieren, und äusserten sich besorgt über den aktuellen Stand der Entwicklungen für den bevorstehenden Übergang.
 
-Mehrere Personen hoben den modernen und innovativen Aspekt von {{< smallcaps "rero ils" >}} hervor. Insgesamt wurde die Interaktivität des Workshops sehr geschätzt.
+Mehrere Personen hoben den modernen und innovativen Aspekt von RERO ILS hervor. Insgesamt wurde die Interaktivität des Workshops sehr geschätzt.
 
 ## Bilanz der RERO Zentrale
 

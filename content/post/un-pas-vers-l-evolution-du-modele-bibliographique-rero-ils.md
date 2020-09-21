@@ -5,7 +5,7 @@ draft: false
 tags: ["rero ils", "enrichment", "lrm", "works", "bibliostratus", "data alignment"]
 ---
 
-Œuvre, expression, manifestation, item, un, deux, trois, quatre... comptine entêtante à laquelle sont désormais familiarisées les personnes travaillant en bibliothèque. Et de fait, ces quatre concepts sont régulièrement scandés dans les conférences du domaine et les cours de bibliothéconomie. Plus largement, ils sont le reflet d'une évolution des modèles bibliographiques (LRM), des règles de catalogage (RDA) et des formats d'échange de données (Bibframe). Nos voisins français ont coutume de nommer cette mouvance la « transition bibliographique ». Et le projet {{< smallcaps "rero ils" >}} n'y échappe pas, bien au contraire: il s'en imprègne pleinement. L'utilisation de Bibliostratus le montre bien.
+Œuvre, expression, manifestation, item, un, deux, trois, quatre... comptine entêtante à laquelle sont désormais familiarisées les personnes travaillant en bibliothèque. Et de fait, ces quatre concepts sont régulièrement scandés dans les conférences du domaine et les cours de bibliothéconomie. Plus largement, ils sont le reflet d'une évolution des modèles bibliographiques (LRM), des règles de catalogage (RDA) et des formats d'échange de données (Bibframe). Nos voisins français ont coutume de nommer cette mouvance la « transition bibliographique ». Et le projet RERO ILS n'y échappe pas, bien au contraire: il s'en imprègne pleinement. L'utilisation de Bibliostratus le montre bien.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Bibliostratus prend en charge l'alignement des manifestations et des autorités 
 
 ##### Quelle utilité pour RERO ILS?
 
-Le modèle bibliographique de {{< smallcaps "rero ils" >}} va comporter l'entité « œuvre », actuellement absente du catalogue. Toutefois, la génération de ces œuvres de manière automatique sur la base des notices de manifestations est un processus extrêmement complexe qui nécessite des efforts importants si l'on souhaite que les données respectent la définition de l'œuvre selon LRM.
+Le modèle bibliographique de RERO ILS va comporter l'entité « œuvre », actuellement absente du catalogue. Toutefois, la génération de ces œuvres de manière automatique sur la base des notices de manifestations est un processus extrêmement complexe qui nécessite des efforts importants si l'on souhaite que les données respectent la définition de l'œuvre selon LRM.
 
 Dans la situation actuelle, RERO n'a pas les ressources pour effectuer de tels développements. Par contre, la BnF et l'Abes se donnent les moyens de réaliser ces enrichissements et alignements. Procédant par étapes et par sous-ensembles de données pour garantir une certaine qualité, la BnF a déjà intégré des milliers de liens œuvre-manifestation dans sa base de production[^2]. De son côté, l'Abes explore les possibilités de son logiciel CBS dans la même optique[^3].
 

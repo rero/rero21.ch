@@ -6,13 +6,13 @@ draft: false
 tags: ["rero-ils", "Erwerbungen", "Vorhersagen", "Pilotbibliotheken"]
 ---
 
-Einige Leute lieben sie, andere verabscheuen sie. Heute geht es um die Vorhersagen und um ihre Erscheinungsfrequenz in den Daten der {{< smallcaps "rero ils" >}}-Pilotbibliotheken. Die Arbeiten zur Umsetzung der Zeitschriftenverwaltung führen die RERO-Zentrale tatsächlich dazu, diesen Aspekt auf der Grundlage der vorhandenen Daten zu analysieren. (Für die Experten sind diese Vorhersagen im MARC-Feld 853 der Holdings zu finden).
+Einige Leute lieben sie, andere verabscheuen sie. Heute geht es um die Vorhersagen und um ihre Erscheinungsfrequenz in den Daten der RERO ILS-Pilotbibliotheken. Die Arbeiten zur Umsetzung der Zeitschriftenverwaltung führen die RERO-Zentrale tatsächlich dazu, diesen Aspekt auf der Grundlage der vorhandenen Daten zu analysieren. (Für die Experten sind diese Vorhersagen im MARC-Feld 853 der Holdings zu finden).
 
 Nach der Extraktion der Daten, entdeckten wir einige interessante Zahlen. Wir möchten sie hier vorstellen, da es einige Gemeinsamkeiten und Unterschiede zwischen den Bibliotheken gibt.
 
 <!--more-->
 
-[Zur Erinnerung](/de/rero-ils-expose-to-test) entwickeln wir {{< smallcaps "rero ils" >}} mit Hilfe von Pilotbibliotheken, die das System testen und uns Rückmeldungen von Fachleuten aus der Praxis geben. Unsere sechs Pilotbibliotheken sind die folgenden:
+[Zur Erinnerung](/de/rero-ils-expose-to-test) entwickeln wir RERO ILS mit Hilfe von Pilotbibliotheken, die das System testen und uns Rückmeldungen von Fachleuten aus der Praxis geben. Unsere sechs Pilotbibliotheken sind die folgenden:
 
 * [Bibliothek von Bulle](https://musee-gruerien.ch/)
 * [Kantonsbibliothek Jura](https://www.jura.ch/occ/bicj)
