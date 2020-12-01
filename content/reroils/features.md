@@ -128,4 +128,13 @@ td {vertical-align: middle; padding: 20px; width:50%}
 			<img src="/img/features_admin.svg" alt="Icône en forme de roues crantées" class="img-fluid w-25"/>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="/img/features_rfid.svg" class="float-right img-fluid w-25"/>
+		</td>
+		<td class="text-left">
+			<h2>Interfaçage avec les bornes de prêt</h2>
+			<p>Connexion avec des bornes RFID via le protocole SIP2</p>
+		</td>
+	</tr>
 </table>
