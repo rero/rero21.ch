@@ -128,4 +128,13 @@ td {vertical-align: middle; padding: 20px; width:50%}
 			<img src="/img/features_admin.svg" class="img-fluid w-25"/>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="/img/features_rfid.svg" class="float-right img-fluid w-25"/>
+		</td>
+		<td class="text-left">
+			<h2>Schnittstelle mit Selbstverbuchungs-automaten</h2>
+			<p>Verbindung mit RFID-Automaten über das SIP2-Protokoll</p>
+		</td>
+	</tr>
 </table>
