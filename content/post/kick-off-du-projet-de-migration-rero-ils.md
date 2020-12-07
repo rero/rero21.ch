@@ -30,17 +30,17 @@ Et après le go-live, le développement de RERO ILS se poursuivra. En effet, RER
 
 Deux équipes de projet ont été constituées pour suivre la migration et fournir des spécifications:
 
-* Le groupe système, avec notamment des compétences sur le paramétrage, le prêt, les acquisitions, le bulletinage et les statistiques. Il s'occupe également des tests, de la priorisation et des spécifications de conversion.
-* Le groupe métadonnées, avec notamment des compétences sur le catalogage et l'interface publique. En plus, il collabore aux tests, à l'affinement de la conversion des données bibliographiques ainsi qu'à la définition des processus et règles de catalogage.
+* Le groupe système. Compétent pour le paramétrage, le prêt, les acquisitions, le bulletinage et les statistiques, il s'occupe également des tests, de la priorisation et des spécifications de conversion.
+* Le groupe métadonnées. Responsable du catalogage et de l'interface publique, il collabore en plus aux tests, à l'affinement de la conversion des données bibliographiques ainsi qu'à la définition des processus et règles de catalogage.
 
 La Centrale est heureuse de pouvoir compter sur l'expertise de personnes du terrain pour l'accompagner dans cette migration!
 
 Le calendrier de migration (voir ci-dessous) comporte 4 jalons importants:
 
-* `fin février` 1er chargement complet
-* `mars/avril` formations de formateurs
-* `fin avril` 2e chargement complet
-* `12 juillet 2021` go-live
+* `fin février`: 1er chargement complet
+* `mars/avril`: formations de formateurs
+* `fin avril`: 2e chargement complet
+* `12 juillet 2021`: go-live
 
 <a href="/img/calendrier_migration.svg" target="_blank"><img src="/img/calendrier_migration.svg" alt="Calendrier de migration" ></a>
 
