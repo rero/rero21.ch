@@ -1,6 +1,6 @@
 ---
 title: "Kick-off du projet de migration RERO ILS"
-publishdate: 2020-12-03
+publishdate: 2020-12-08
 draft: false
 tags: ["migration", "rero-ils", "go-live"]
 slug: kick-off-du-projet-de-migration-rero-ils
@@ -42,5 +42,4 @@ Le calendrier de migration (voir ci-dessous) comporte 4 jalons importants:
 * `fin avril`: 2e chargement complet
 * `12 juillet 2021`: go-live
 
-<a href="/img/calendrier_migration.svg" target="_blank"><img src="/img/calendrier_migration.svg" alt="Calendrier de migration" ></a>
-
+{{< figure src="/img/calendrier_migration.svg" caption="Calendrier de migration" alt="Calendrier de migration" link="/img/calendrier_migration.svg" target="_blank" >}}
