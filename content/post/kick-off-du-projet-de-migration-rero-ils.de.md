@@ -42,5 +42,5 @@ Der Migrationszeitplan (siehe unten) hat 4 wichtige Meilensteine:
 * `Ende April`: 2. vollständiges Laden der Daten
 * `12. Juli 2021`: Go-Live
 
-{{< figure src="/img/calendrier_migration.svg" caption="Migrationszeitplan (auf Französisch)" alt="Migrationszeitplan (auf Französisch)" link="/img/calendrier_migration.svg" target="_blank" >}}
+{{< figure src="/img/calendrier_migration.svg" caption="Migrationszeitplan (auf Französisch)" alt="Migrationszeitplan (auf Französisch)" link="/img/calendrier_migration.svg" >}}
 
