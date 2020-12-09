@@ -42,4 +42,4 @@ Le calendrier de migration (voir ci-dessous) comporte 4 jalons importants:
 * `fin avril`: 2e chargement complet
 * `12 juillet 2021`: go-live
 
-{{< figure src="/img/calendrier_migration.svg" caption="Calendrier de migration" alt="Calendrier de migration" link="/img/calendrier_migration.svg" target="_blank" >}}
+{{< figure src="/img/calendrier_migration.svg" caption="Calendrier de migration" alt="Calendrier de migration" link="/img/calendrier_migration.svg" >}}
