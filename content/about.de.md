@@ -10,7 +10,7 @@ Dieser Blog veröffentlicht Beiträge über RERO 21, unter der gleichnamigen [Et
 
 ### RERO ILS
 
-*Weitere Infos auf der [RERO ILS Seite](/de/reroils)*
+*Weitere Infos auf der [RERO ILS Seite](/de/reroils/reroils)*
 
 RERO ILS ist ein *Open Source* Bibliotheksverwaltungssystem, das von RERO in Zusammenarbeit mit der [Katholischen Universität Löwen (UCLouvain)](https://uclouvain.be/) entwickelt wird. Es soll im Rahmen des RERO 21-Projekts in Produktion gehen und das derzeitige System ersetzen.
 
