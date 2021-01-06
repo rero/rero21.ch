@@ -12,7 +12,7 @@ date: 2018-12-12
 ### RERO ILS
 
 - [Demonstration site](https://ils.test.rero.ch)
-- [Help for demonstration site](https://github.com/rero/rero-ils/wiki/Public-demo-help)
+- [Help and documentation](https://ils.test.rero.ch/help/home/)
 - [Releases notes](https://github.com/rero/rero-ils/releases)
 - [Backlog: list of functionalities to implement](https://tree.taiga.io/project/rero21-reroils/backlog)
 - [MEF](https://mef.test.rero.ch)
