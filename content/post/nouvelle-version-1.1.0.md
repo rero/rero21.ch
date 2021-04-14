@@ -20,7 +20,7 @@ Cette structure permet d'une part de respecter les exigences légales de protect
 
 - Un serveur de [Single Sign-On](https://fr.wikipedia.org/wiki/Authentification_unique) pour une authentification unique sur plusieurs services et organisations.
 - La possibilité d'enregistrer des lectrices ou lecteurs sans adresse e-mail, par exemple pour des enfants en bibliothèque publique ou scolaire.
-- Le respect de la confidentialité des données entre les différentes organisations
+- Le respect de la confidentialité des données entre les différentes organisations.
 - L'utilisation comme un service web moderne avec un nom d'utilisateur personnalisable. Le numéro de la carte n'est ainsi plus nécessaire pour se connecter à son compte.
 
 Par ailleurs, des travaux ont aussi été effectués dans le but de permettre une bonne gestion des avis de réservation ou d'échéance ainsi que le blocage des comptes dont la date d'expiration a été atteinte.
