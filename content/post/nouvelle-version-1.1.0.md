@@ -16,7 +16,7 @@ La gestion des données du profil des lectrices et lecteurs de RERO ILS est une 
 - `User` : Contient les données personnelles (nom, sexe, numéros de téléphone, ...) dans le compte RERO qui est partagé par toutes les organisations.
 - `Patron` : Lié à un `user`, il contient les données de gestion spécifiques à chaque organisation telles que les transactions de prêt, le rôle et le type de lecteur, les notes, etc.
 
-Cette structure permet d'une part de respecter les exigences légales de protection des données, et d'autre part de n'avoir qu'un seul compte `user` par utilisateur·trice plutôt que d'en créer un pour chaque organisation. Les lectrices et lecteurs peuvent ainsi utiliser le même compte, et donc les mêmes identifiants, s'ils sont inscrits dans plusieurs organisations. En l'état, ce module offre donc plusieurs avantages : 
+Cette structure permet d'une part de respecter les exigences légales de protection des données, et d'autre part de n'avoir qu'un seul compte `user` par utilisateur·trice plutôt que d'en créer un pour chaque organisation. La personne peut ainsi utiliser le même compte, et donc les mêmes identifiants, si elle est inscrite dans plusieurs organisations. En l'état, ce module offre donc plusieurs avantages : 
 
 - Un serveur de [Single Sign-On](https://fr.wikipedia.org/wiki/Authentification_unique) pour une authentification unique sur plusieurs services et organisations.
 - La possibilité d'enregistrer des lectrices ou lecteurs sans adresse e-mail, par exemple pour des enfants en bibliothèque publique ou scolaire.
