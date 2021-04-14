@@ -35,10 +35,16 @@ inside the shortcode like so:
 Use [bootstrap-table](https://getbootstrap.com/docs/4.4/content/tables/)
 classes inside the `""` to customize your table.
 
+### Abbreviations and definitions
+
+     {{< abbr title="Réseau romand" text="RERO" >}}
+
+The `title` is the definition and `text` is the in-line text. 
+
 ### Images
 
 Put the image in the `static/img/` folder and use the hugo built-in
-[figure shorcode](https://gohugo.io/content-management/shortcodes/#figure)
+[figure shortcode](https://gohugo.io/content-management/shortcodes/#figure)
 
 ### Videos
 
