@@ -1,6 +1,7 @@
 ---
 title: "Maintenance"
 draft: false
+private: true
 ---
 
 ## RERO ILS is in maintenance
