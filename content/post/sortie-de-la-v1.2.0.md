@@ -44,7 +44,7 @@ circulation des utilisatrices et utilisateurs ne sont pas partagées entre
 différentes organisations ; il est néanmoins probable que des personnes soient
 inscrites dans des bibliothèques d'organisations différentes, par exemple une
 fois dans le réseau de RERO Valais et une deuxième fois dans le réseau RBNJ
-(Neuchâtel-Jura). Celles-ci peuvent désormais consulter leurs données
+(Neuchâtel-Jura). Elles peuvent désormais consulter leurs données
 (emprunts, historique, amendes, etc.) des différentes bibliothèques dont elles
 sont membres grâce à un menu déroulant directement depuis leur compte. Ainsi,
 il n'est pas nécessaire de changer d'interface ou de se déconnecter pour avoir

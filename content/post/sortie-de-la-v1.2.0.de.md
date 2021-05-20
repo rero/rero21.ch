@@ -8,7 +8,7 @@ tags: ["Mehrsprachigkeit", "release", "rero-ils"]
 Nach einem weiteren intensiven Sprint bei RERO+ und UCLouvain, bringt die
 Ankunft der Version v1.2.0 ihren Anteil an neuen Funktionen und Korrekturen, um
 RERO ILS vor dem Go-live am 12. Juli zu stabilisieren. Die vollständigen
-Versionshinweise sind auf GitHub verfügbar. Dies ist die Gelegenheit für uns,
+Versionshinweise sind auf [GitHub](https://github.com/rero/rero-ils/blob/dev/RELEASE-NOTES.rst#v120) verfügbar. Dies ist die Gelegenheit für uns,
 den Community-Aspekt von RERO ILS mit den Übersetzungsprozessen des Systems
 hervorzuheben.
 
