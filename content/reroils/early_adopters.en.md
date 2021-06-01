@@ -4,7 +4,7 @@ language: "en"
 date: 2020-08-18
 ---
 
-Some 50 libraries currently members of RERO will use the RERO ILS solution, as of the go live on 12 July 2021. Among them, seven pilot libraries are taking part in the collaborative development process:
+[58 RERO+ libraries](/en/reroils/migration2021-libraries/) will use the RERO ILS solution, as of the go live on 12 July 2021. Among them, seven pilot libraries are taking part in the collaborative development process:
 
 |   |   |
 | ------ | ----------- |

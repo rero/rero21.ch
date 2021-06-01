@@ -4,7 +4,7 @@ language: "fr"
 date: 2020-08-18
 ---
 
-Une cinquantaine de bibliothèques actuellement membres de RERO utiliseront la solution RERO ILS dès le passage en production le 12 juillet 2021. Parmi celles-ci, sept bibliothèques pilotes collaborent au processus de développement participatif :
+[58 bibliothèques RERO+](/reroils/migration2021-libraries/) utiliseront la solution RERO ILS dès le passage en production le 12 juillet 2021. Parmi celles-ci, sept bibliothèques pilotes collaborent au processus de développement participatif :
 
 |   |   |
 | ------ | ----------- |
