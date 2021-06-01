@@ -4,7 +4,7 @@ language: "de"
 date: 2020-08-18
 ---
 
-Etwa 50 Bibliotheken, die derzeit Mitglieder von RERO sind, werden die RERO ILS-Lösung ab dem Go-Live am 12. Juli 2021 verwenden. Unter ihnen arbeiten sieben Pilotbibliotheken am partizipativen Entwicklungsprozess mit:
+[58 RERO+ Bibliotheken](/de/reroils/migration2021-libraries/) werden die RERO ILS-Lösung ab dem Go-Live am 12. Juli 2021 verwenden. Unter ihnen arbeiten sieben Pilotbibliotheken am partizipativen Entwicklungsprozess mit:
 
 |   |   |
 | ------ | ----------- |
