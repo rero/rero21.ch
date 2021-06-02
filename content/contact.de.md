@@ -1,5 +1,5 @@
 ---
-title: "Kontact"
+title: "Kontakt"
 language: "de"
 date: 2021-01-06
 ---
