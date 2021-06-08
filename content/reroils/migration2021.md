@@ -12,10 +12,10 @@ RERO+ est une [fondation sans but lucratif](/la-fondation-rero-est-nee/) qui suc
 
 ### ⚠️ Services mis en pause entre le jeudi 08.07 (17h00) et le dimanche 11.07
 
-Il ne sera pas possible durant cette période de:
+Il ne sera pas possible durant cette période:
 
-* emprunter et rendre des documents **en bibliothèque**
-* prolonger, demander et réserver des documents ainsi que gérer son compte sur **RERO Explore**
+* d'emprunter et de rendre des documents **en bibliothèque** ;
+* de prolonger, demander et réserver des documents ainsi que gérer son compte sur **RERO Explore**.
 
 ### Implications pour les lectrices et les lecteurs dès le 12 juillet 2021
 
