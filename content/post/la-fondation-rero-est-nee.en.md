@@ -1,8 +1,9 @@
 ---
 title: "The RERO+ foundation is born"
 publishdate: 2021-06-02
+lastmod: 2021-07-12
 draft: false
-tags: ["rero21", "rero+"]
+tags: ["rero21", "rero+", "press release"]
 ---
 
 It is now official: RERO's identity is evolving to meet new needs in a new library environment. RERO becomes RERO+, a foundation of private law and public interest formally created on April 29, 2021. This event represents the beginning of a new adventure for the RERO+ team and its partners.
@@ -19,11 +20,13 @@ In view of these changes, and with the support of the cantonal authorities withi
 
 - __The name:__ RERO was originally the acronym for Réseau Romand, which later became Réseau des bibliothèques de Suisse occidentale (Library Network of Western Switzerland). Today, although still predominantly French-speaking, the institution is no longer bound by territorial criteria. The name RERO+ signifies a broadening of its activities, its services and its geographical and linguistic coverage, while keeping its identity, which has been known for more than 30 years in the Swiss information science landscape.
 
-- __The governance:__ RERO+ is now under the supervision of the Foundation Board, initially composed of four representatives of the founding members:
-    - Damian Elsig, president (Canton of Valais)
+- __The governance:__ RERO+ is now under the supervision of the Foundation Board, initially composed of:
+    - Damian Elsig, president until July 31, 2021 (Canton of Valais)
+    - Elisabeth Baume-Schneider, president from August 1, 2021
     - Antoine Grandjean, vice-president (Canton of Neuchâtel)
     - Géraldine Rérat-Oeuvray (Canton of Jura)
     - Thierry Petoud (City of Martigny)
+    - Martin Godd, consultant, former director of the Canton library of Fribourg
 
     Eventually, this Council will comprise between 7 and 9 members, covering several areas of expertise and representing other stakeholders, such as strategic partners. In addition, specific governance mechanisms for RERO ILS and SONAR will be put in place in order to give their customers an active role in the design of the products.
 
@@ -49,6 +52,13 @@ The RERO+ team is based in Wallis and is composed of experts with a long experie
 The IT solutions are developed in open source and are based on the [Invenio 3](https://inveniosoftware.org) software developed by CERN.  All data is stored in Switzerland.
 
 RERO+: a non-profit foundation labelled “Swiss-made”!
+
+---
+
+## Update - July 12, 2021
+
+Following the [nomination of Damian Elsig](https://www.admin.ch/gov/fr/accueil/documentation/communiques.msg-id-83356.html) at the head of the Swiss National Library, Élisabeth Baume-Schneider, State Councillor, will be the new president of the RERO+ Foundation Council from August 2021. She will take up her position at a time when the catalog of RERO+ client libraries has just been migrated to the new RERO ILS system: [bib.rero.ch](https://bib.rero.ch/).
+
 
 ---
 
