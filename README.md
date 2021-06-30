@@ -13,6 +13,28 @@ To run rero21.ch :
    with `git submodule update --init`
 1. Run the site locally with `hugo server -D`
 
+## Configuration
+
+In order to diffentiate `lastmod` from `date` and `publishDate` the following
+configuration in the `config.toml` is mandatory:
+
+```toml
+[frontmatter]
+  date = ["date", "publishDate"]
+  lastmod = ["lastmod"]
+  publishDate = ["publishDate", "date"]
+```
+
+## Front matter
+
+You can add to the front matter the `lastmod` parameter, with a date
+(YYYY-MM-DD). This will add on top of the post (and on the preview list on the
+home page) a blue bold text with this date.
+
+```toml
+lastmod: 2026-01-01
+```
+
 ## Shortcodes
 
 ### Smallcaps
