@@ -23,6 +23,11 @@ unsafe= true
   tag = "tags"
   category = "categories"
 
+[frontmatter]
+  date = ["date", "publishDate"]
+  lastmod = ["lastmod"]
+  publishDate = ["publishDate", "date"]
+
 
 # Google analytics
 # googleAnalytics = "UA-47268287-3"
