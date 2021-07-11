@@ -6,6 +6,8 @@ draft: false
 tags: ["rero21", "rero+", "communiqué-de-presse"]
 ---
 
+<img src="/img/RERO+logo_265x200.png" alt="Nouveau logo de la fondation RERO+" title="Nouveau logo de la fondation RERO+" style="width: 140px; float: right; margin: 0;">
+
 C’est désormais officiel : l’identité de RERO évolue pour faire face à de
 nouveaux besoins dans un nouvel environnement bibliothéconomique. RERO devient
 RERO+, une fondation de droit privé et d’intérêt public formellement constituée
@@ -35,7 +37,7 @@ principaux nouveaux services proposés par la fondation. Leur déploiement en
 
 ## Ce qui change
 
-- __L'appellation :__ RERO était originellement l’acronyme de Réseau Romand,
+- __L'appellation et l'identité visuelle :__ RERO était originellement l’acronyme de Réseau Romand,
 devenu ensuite le Réseau des bibliothèques de Suisse occidentale. Aujourd’hui,
 bien qu’encore majoritairement romande, l’institution n’est plus liée à des
 critères territoriaux. L’appellation RERO+ signifie un élargissement de ses
@@ -136,6 +138,8 @@ conseillère aux États.
 Facette la plus visible de cette grande transformation, l'ancien système de
 gestion de bibliothèque a été remplacé le 12 juillet par RERO ILS, avec la mise
 en ligne du nouveau catalogue RERO+ : [bib.rero.ch](https://bib.rero.ch/).
+
+{{< figure src="/img/screenshots_catalogues_1300x875.png" caption="Les nouveaux catalogues de RERO+" alt="Les nouveaux catalogues de RERO+" link="https://bib.rero.ch/" >}}
 
 ---
 

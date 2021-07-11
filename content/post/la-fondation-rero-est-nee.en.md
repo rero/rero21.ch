@@ -6,6 +6,8 @@ draft: false
 tags: ["rero21", "rero+", "press release"]
 ---
 
+<img src="/img/RERO+logo_265x200.png" alt="Nouveau logo de la fondation RERO+" title="Nouveau logo de la fondation RERO+" style="width: 140px; float: right; margin: 0;">
+
 It is now official: RERO's identity is evolving to meet new needs in a new library environment. RERO becomes RERO+, a foundation of private law and public interest formally created on 29 April 2021 by the cantons of Jura, Neuchâtel and Valais, as well as the city of Martigny. This event represents the beginning of a new adventure for the RERO+ team and its partners.
 
 <!--more-->
@@ -18,7 +20,7 @@ In view of these changes, and with the support of the cantonal authorities withi
 
 ## What changes
 
-- __The name:__ RERO was originally the acronym for Réseau Romand, which later became Réseau des bibliothèques de Suisse occidentale (Library Network of Western Switzerland). Today, although still predominantly French-speaking, the institution is no longer bound by territorial criteria. The name RERO+ signifies a broadening of its activities, its services and its geographical and linguistic coverage, while keeping its identity, which has been known for more than 30 years in the Swiss information science landscape.
+- __The name and the visual identity:__ RERO was originally the acronym for Réseau Romand, which later became Réseau des bibliothèques de Suisse occidentale (Library Network of Western Switzerland). Today, although still predominantly French-speaking, the institution is no longer bound by territorial criteria. The name RERO+ signifies a broadening of its activities, its services and its geographical and linguistic coverage, while keeping its identity, which has been known for more than 30 years in the Swiss information science landscape.
 
 - __The governance:__ RERO+ is now under the supervision of the Foundation Board, initially composed of:
   - Damian Elsig, president until July 31, 2021 (Canton of Valais)
@@ -67,6 +69,8 @@ From August 2021, State Councillor [Elisabeth Baume-Schneider](https://en.wikipe
 ## The new system RERO ILS goes live on 12 July
 
 The most visible facet of this major transformation is the replacement of the existing library management system by RERO ILS on 12 July, with the launch of the new RERO+ catalogue: [bib.rero.ch](https://bib.rero.ch/).
+
+{{< figure src="/img/screenshots_catalogues_1300x875.png" caption="The new RERO+ catalogues" alt="The new RERO+ catalogues" link="https://bib.rero.ch/" >}}
 
 ---
 

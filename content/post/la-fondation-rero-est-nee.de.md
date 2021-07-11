@@ -6,6 +6,8 @@ draft: false
 tags: ["rero21", "rero+", "presseinformation"]
 ---
 
+<img src="/img/RERO+logo_265x200.png" alt="Logo RERO+ Stiftung" title="Logo RERO+ Stiftung" style="width: 140px; float: right; margin: 0;">
+
 Jetzt ist es offiziell: die Identität von RERO entwickelt sich weiter, um neuen Bedürfnissen in einer neuen Bibliotheksumgebung gerecht zu werden. RERO wird zu RERO+, einer privatrechtlichen gemeinnützigen Stiftung, die am 29. April 2021 von den Kantonen Jura, Neuenburg und Wallis sowie der Stadt Martigny formell gegründet wurde. Dieses Ereignis ist der Beginn eines neuen Abenteuers für das RERO+ Team und seine Partner.
 
 <!--more-->
@@ -18,7 +20,7 @@ Angesichts dieser Veränderungen und mit Unterstützung der kantonalen Behörden
 
 ## Was sich ändert
 
-- __Name:__ RERO war ursprünglich das Akronym für Réseau Romand, das später zum Réseau des bibliothèques de Suisse occidentale (Westschweizer Bibliotheksverbund) wurde. Heute ist die Institution, obwohl sie immer noch überwiegend französischsprachig ist, nicht mehr an territoriale Kriterien gebunden. Der Name RERO+ bedeutet eine Erweiterung ihrer Aktivitäten, ihrer Dienstleistungen sowie ihrer geografischen und sprachlichen Abdeckung, während sie gleichzeitig ihre Identität beibehält, die seit mehr als 30 Jahren in der Schweizer Informationslandschaft bekannt ist.
+- __Name une visuelle Identität:__ RERO war ursprünglich das Akronym für Réseau Romand, das später zum Réseau des bibliothèques de Suisse occidentale (Westschweizer Bibliotheksverbund) wurde. Heute ist die Institution, obwohl sie immer noch überwiegend französischsprachig ist, nicht mehr an territoriale Kriterien gebunden. Der Name RERO+ bedeutet eine Erweiterung ihrer Aktivitäten, ihrer Dienstleistungen sowie ihrer geografischen und sprachlichen Abdeckung, während sie gleichzeitig ihre Identität beibehält, die seit mehr als 30 Jahren in der Schweizer Informationslandschaft bekannt ist.
 
 - __Governance:__ RERO+ steht nun unter der Aufsicht des Stiftungsrates, der sich zunächst wie folgt zusammensetzt:
   - Damian Elsig, Präsident bis 31. Juli 2021 (Kanton Wallis)
@@ -67,6 +69,8 @@ Ab August 2021 übernimmt Staatsrätin [Elisabeth Baume-Schneider](https://de.wi
 ## Das neue System RERO ILS geht am 12. Juli in Betrieb
 
 Die sichtbarste Facette dieser grossen Transformation ist die Ablösung des bestehenden Bibliotheksverwaltungssystems durch RERO ILS am 12. Juli, mit der Einführung des neuen RERO+ Katalogs: [bib.rero.ch](https://bib.rero.ch/).
+
+{{< figure src="/img/screenshots_catalogues_1300x875.png" caption="Die neuen RERO+ Kataloge" alt="Die neuen RERO+ Kataloge" link="https://bib.rero.ch/" >}}
 
 ---
 
