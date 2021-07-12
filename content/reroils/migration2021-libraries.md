@@ -1,10 +1,10 @@
 ---
 title: "Liste des bibliothèques RERO+"
 language: "fr"
-date: 2021-06-01
+date: 2021-07-12
 ---
 
-58 bibliothèques RERO+ migrent vers RERO ILS le 12 juillet 2021.
+Les 58 bibliothèques RERO+ ont migré vers le nouveau système RERO ILS 12 juillet 2021.
 
 |  |  |  |
 |-|-|-|
