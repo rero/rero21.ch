@@ -1,21 +1,14 @@
 ---
 title: "Migration 2021 de RERO+: nouveau système, nouvelle adresse"
 language: "fr"
-date: 2021-06-01
+date: 2021-07-12
 ---
 
-Les [58 bibliothèques RERO+](/reroils/migration2021-libraries/) effectuent un important changement de système le 12 juillet 2021.
+Les [58 bibliothèques RERO+](/reroils/migration2021-libraries/) ont effectué un important changement de système le 12 juillet 2021.
 
 ### Contexte
 
 RERO+ est une [fondation sans but lucratif](/la-fondation-rero-est-nee/) qui succède à RERO (Réseau des bibliothèques de Suisse occidentale) pour la gestion du système de bibliothèque de ses institutions partenaires. En décembre 2020, une partie des bibliothèques avait quitté le réseau pour la plateforme swisscovery. Le changement de système de juillet 2021 pour les 58 autres bibliothèques conclut la transformation de RERO vers RERO+.
-
-### ⚠️ Services mis en pause entre le jeudi 08.07 (17h00) et le dimanche 11.07
-
-Il ne sera pas possible durant cette période:
-
-* d'emprunter et de rendre des documents **en bibliothèque** ;
-* de prolonger, demander et réserver des documents ainsi que gérer son compte sur **RERO Explore**.
 
 ### Implications pour les lectrices et les lecteurs dès le 12 juillet 2021
 

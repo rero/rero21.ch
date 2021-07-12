@@ -1,10 +1,10 @@
 ---
 title: "List of RERO+ libraries"
 language: "en"
-date: 2021-06-01
+date: 2021-07-12
 ---
 
-58 RERO+ libraries migrate to RERO ILS on 12 July 2021.
+The 58 RERO+ libraries migrated to RERO ILS on 12 July 2021.
 
 |  |  |  |
 |-|-|-|
