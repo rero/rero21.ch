@@ -10,7 +10,7 @@ tags: ["rero21", "rero+", "communiqué-de-presse"]
     alt="Nouveau logo de la fondation RERO+."
     class="rero-img-float" >}}
 
-C’est désormais officiel : l’identité de RERO évolue pour faire face à de
+C’est désormais officiel : l’identité de RERO évolue pour faire face à de
 nouveaux besoins dans un nouvel environnement bibliothéconomique. RERO devient
 RERO+, une fondation de droit privé et d’intérêt public formellement constituée
 le 29 avril 2021 par les cantons du Jura, de Neuchâtel et du Valais, ainsi que

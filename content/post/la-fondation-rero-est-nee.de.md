@@ -26,7 +26,7 @@ Angesichts dieser Veränderungen und mit Unterstützung der kantonalen Behörden
 
 - __Governance:__ RERO+ steht nun unter der Aufsicht des Stiftungsrates, der sich zunächst wie folgt zusammensetzt:
   - Damian Elsig, Präsident bis 31. Juli 2021 (Kanton Wallis)
- 	- Elisabeth Baume-Schneider, Präsidentin ab 1. August 2021
+  - Elisabeth Baume-Schneider, Präsidentin ab 1. August 2021
   - Antoine Grandjean, Vizepräsident (Republik und Kanton Neuenburg)
   - Géraldine Rérat-Oeuvray (Republik und Kanton Jura)
   - Thierry Petoud (Stadt Martigny)
