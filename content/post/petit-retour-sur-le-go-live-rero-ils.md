@@ -11,7 +11,7 @@ Le lundi 12 juillet 2021 est une date dont RERO+ se souviendra longtemps: [58 bi
 
 ## Les écueils
 
-Commençons par les obstacles rencontrées, car ce sont eux qui impactent l'expérience des utilisatrices et utilisateurs ainsi que le travail quotidien des collègues en bibliothèques. Des problèmes ont été constatés à trois niveaux:
+Commençons par les obstacles rencontrés, car ce sont eux qui impactent l'expérience des utilisatrices et utilisateurs ainsi que le travail quotidien des collègues en bibliothèques. Des problèmes ont été constatés à trois niveaux:
 
 1. **Performance.** La lenteur de réponse de RERO ILS a perturbé l'exploitation durant la première semaine. RERO+ a monitoré et suivi la situation de près afin d'apporter progressivement des solutions. L'infrastructure (capacité des serveurs notamment) a été redimensionnée pour mieux correspondre à l'amplitude de l'utilisation. D'un autre côté, RERO ILS a été optimisé à plusieurs niveaux pour être moins gourmand, car plusieurs requêtes étaient inutiles ou effectuées à double lors de l'utilisation de l'interface et le calcul automatique de certaines facettes coûtait cher en ressources.
 2. **Bugs fonctionnels.** Les problèmes les plus dérangeants ont été identifiés à deux niveau: les notifications envoyées (rappels, avis de disponibilité, demandes, etc.) et l'interface SIP2 communiquant avec les bornes de prêt en self-service.
