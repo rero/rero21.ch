@@ -1,7 +1,8 @@
 ---
 title: "MEF: Multilingual Entity File"
 language: "en"
-date: 2020-08-18
+date: 2020-12-08
+lastmod: 2021-12-08
 ---
 
 # What MEF does
@@ -33,4 +34,4 @@ MEF collects entities from different sources (GND, IdRef, etc.) and synchronises
 
 The entities themselves are maintained and edited directly at source in agreement with their issuing institution. No entities are created or edited directly in MEF.
 
-{{< figure src="/img/mef_fonctionnement.svg" caption="MEF operation" alt="MEF operation schema" >}}
+{{< figure src="/img/mef_schema_en.svg" caption="MEF operation" alt="MEF operation schema" >}}

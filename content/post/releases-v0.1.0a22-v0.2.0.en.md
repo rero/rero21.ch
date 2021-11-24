@@ -6,7 +6,7 @@ draft: false
 tags: ["rero-ils", "release"]
 ---
 
-Since the [RERO Day](https://www.rero.ch/page.php?section=communique&pageid=reroday2019_fr) in March 2019, two versions of RERO ILS have been released. They provide a consolidation of the existing system, early support of the consortial model, an improvement of the search engine and circulation notifications.
+Since the [RERO Day](https://www2000.rero.ch/page.php?section=communique&pageid=reroday2019_fr) in March 2019, two versions of RERO ILS have been released. They provide a consolidation of the existing system, early support of the consortial model, an improvement of the search engine and circulation notifications.
 
 The version notes are as follows:
 
