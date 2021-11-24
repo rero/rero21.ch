@@ -12,11 +12,11 @@ Mit der Integration der lokalen Autoritäten in sein Datenmodell, verwirklicht R
 
 ## So funktioniert Mehrsprachigkeit
 
-Die Mehrsprachigkeit der Daten basiert auf dem Projekt [MEF - Multilingual Entity File](/de/mef/). Die Projektseite erklärt im Detail, wie der Service funktioniert. Hier sind die Prinzipien zusammengefasst:
+Die Mehrsprachigkeit der Daten basiert auf dem Projekt [MEF - Multilingual Entity File](https://www.rero.ch/de/produits/mef). Die Projektseite erklärt im Detail, wie der Service funktioniert. Hier sind die Prinzipien zusammengefasst:
 
 1. Bei der Katalogisierung werden Dokumente mit Akteuren[^1] verknüpft, die in den Entitätsdateien IdRef[^2] (auf Französisch) oder GND[^3] (auf Deutsch) beschrieben sind.
-1. Jeden Monat führt das VIAF-System die IdRef- und GND-Entitäten zusammen, die dieselben Akteure repräsentieren.
-1. MEF ruft diese Daten ab und RERO&nbsp;ILS kann dann in der öffentlichen Schnittstelle die Anzeige anpassen:
+2. Jeden Monat führt das VIAF-System die IdRef- und GND-Entitäten zusammen, die dieselben Akteure repräsentieren.
+3. MEF ruft diese Daten ab und RERO&nbsp;ILS kann dann in der öffentlichen Schnittstelle die Anzeige anpassen:
     * die IdRef-Version, wenn die Schnittstellensprache Französisch ist.
     * die GND-Version, wenn die Schnittstellensprache Deutsch ist.
 

@@ -2,6 +2,7 @@
 title: "MEF: Multilingual Entity File"
 language: "de"
 date: 2020-08-18
+lastmod: 2021-12-08
 ---
 
 # Was MEF tut
@@ -33,4 +34,4 @@ MEF ruft Entitäten aus verschiedenen Quellen (GND, IdRef, etc.) ab und synchron
 
 Die Entitäten selbst werden direkt an der Quelle in Absprache mit der herausgebenden Institution gepflegt und bearbeitet. Es werden keine Entitäten direkt in MEF erstellt oder bearbeitet.
 
-{{< figure src="/img/mef_fonctionnement.svg" caption="Funktionieren von MEF" alt="Grafix des Funktionierens von MEF" >}}
+{{< figure src="/img/mef_schema_en.svg" caption="Funktionieren von MEF" alt="Grafix des Funktionierens von MEF" >}}

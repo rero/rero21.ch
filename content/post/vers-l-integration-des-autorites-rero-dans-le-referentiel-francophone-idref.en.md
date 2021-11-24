@@ -14,7 +14,7 @@ An agreement of principle was reached with the [ABES (Agence bibliographique de 
 For libraries of French-speaking Switzerland, this solution offers many advantages:
 
 * Continue producing French-language authorities after the transition. 
-* Use and enrich a large and high-quality authority file (3.5 million authorities) which will eventually merge with the BnF (Bibliothèque nationale de France) file as part of the [FNE project](https://www.transition-bibliographique.fr/fne/fichier-national-entites/) (présenté à la [journée RERO](https://www.rero.ch/pdfview.php?section=communique&filename=JR19_FNE_journee_RERO.pdf) (presented at the RERO day in March 2019).
+* Use and enrich a large and high-quality authority file (3.5 million authorities) which will eventually merge with the BnF (Bibliothèque nationale de France) file as part of the [FNE project](https://www.transition-bibliographique.fr/fne/fichier-national-entites/) (présenté à la [journée RERO](https://www2000.rero.ch/pdfview.php?section=communique&filename=JR19_FNE_journee_RERO.pdf) (presented at the RERO day in March 2019).
 * Increase the visibility of RERO authorities.
 * Benefit from the [MEF service](https://mef.test.rero.ch/) (Multilingual Entity File) developed by RERO with the aim of implementing multilingual metadata management in ILSs.
 
@@ -24,7 +24,7 @@ A more complete presentation of the scenario was given in November 2019 at the B
 
 * Input by the cataloguers and indexers of the new *proper nouns* authorities directly into IdRef via the web application
 * Linkage to IdRef and RERO-RAMEAU authorities by entering identifiers in the access points of bibliographic records
-* Separate management of the [RERO-RAMEAU (common nouns)](https://www.rero.ch/pdfview.php?section=ressources&filename=rameau_dans_le_reseau_suisse_rero_20141106.pdf) system, which we have been adapting since 2012 to post-coordinated indexing, with monthly transfers to Alma/SLSP and MEF/RERO ILS
+* Separate management of the [RERO-RAMEAU (common nouns)](https://www2000.rero.ch/pdfview.php?section=ressources&filename=rameau_dans_le_reseau_suisse_rero_20141106.pdf) system, which we have been adapting since 2012 to post-coordinated indexing, with monthly transfers to Alma/SLSP and MEF/RERO ILS
 * Regular harvesting of [IdRef's OAI PMH server](http://www.abes.fr/Autorites-et-referentiels/Services-disponibles/Entrepot-OAI-PMH-IdRef) to to Alma/SLSP and MEF/RERO ILS for updates
 * Transmission of the RAMEAU suggestions to the BnF by the RAMEAU correspondents of the French-speaking SLSP and RERO sites, as up to now
 

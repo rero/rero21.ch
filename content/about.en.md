@@ -2,17 +2,18 @@
 title: "RERO21 project"
 language: "en"
 date: 2021-01-06
+lastmod: 2021-12-08
 ---
 
 RERO+ (main site: [rero.ch](https://www.rero.ch/)) is a competence and service centre for libraries, with its central office in Martigny, Valais. RERO+ became a [non-profit foundation](/en/la-fondation-rero-est-nee/) in 2021 that succeeds RERO (Library Network of Western Switzerland) in the current context of the changing library landscape in Switzerland.
 
-This major project is called RERO 21 and has been approved in September 2018 by the RERO's supervisory authority, the [CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf "Press release of CIIP in PDF").
+This major project is called RERO 21 and has been approved in September 2018 by the RERO's supervisory authority, the [CIIP](https://www2000.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf "Press release of CIIP in PDF").
 
 This blog aims to publish posts about RERO 21, grouped under the [RERO 21 label](/en/tags/rero21), as well as about the different sub-projects that constitute it: RERO ILS, MEF et SONAR.
 
 ### RERO ILS
 
-*More info on the [RERO ILS page](/en/reroils/reroils)*
+*More info on the [RERO ILS page](https://www.rero.ch/produits/ils)*
 
 RERO ILS is an open source library management system developed by RERO in collaboration with the [Catholic University of Louvain (UCLouvain)](https://uclouvain.be/). It will be put into production to replace the current system within the framework of the RERO 21 project.
 

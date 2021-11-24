@@ -6,7 +6,7 @@ draft: false
 tags: ["rero-ils", "release"]
 ---
 
-Seit der [RERO-Tagung](https://www.rero.ch/page.php?section=communique&pageid=reroday2019_de) im März 2019 wurden zwei Versionen von RERO ILS veröffentlicht. Sie bieten eine Konsolidierung des bestehenden Systems, den Beginn der Unterstützung des Konsortialmodells, eine bessere Konfiguration der Suchmaschine und die Umsetzung von Mitteilungen im Zusammenhang mit der Ausleihe.
+Seit der [RERO-Tagung](https://www2000.rero.ch/page.php?section=communique&pageid=reroday2019_de) im März 2019 wurden zwei Versionen von RERO ILS veröffentlicht. Sie bieten eine Konsolidierung des bestehenden Systems, den Beginn der Unterstützung des Konsortialmodells, eine bessere Konfiguration der Suchmaschine und die Umsetzung von Mitteilungen im Zusammenhang mit der Ausleihe.
 
 Die Versionshinweise lauten wie folgt:
 

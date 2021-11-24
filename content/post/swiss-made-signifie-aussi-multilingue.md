@@ -12,11 +12,11 @@ Avec l'intégration des collectivités dans son modèle de données, RERO&nbsp;I
 
 ## Fonctionnement du multilinguisme
 
-Le multilinguisme des données se base sur le projet [MEF - Multilingual Entity File](/mef/). La page du projet explique en détail le fonctionnement du service. En voici les principes résumés:
+Le multilinguisme des données se base sur le projet [MEF - Multilingual Entity File](https://www.rero.ch/produits/mef). La page du projet explique en détail le fonctionnement du service. En voici les principes résumés:
 
 1. Lors du catalogage, les documents sont reliés à des agents[^1] décrits dans les fichiers d'entités IdRef[^2] (en français) ou GND[^3] (en allemand).
-1. Chaque mois, le système VIAF fusionne les entités IdRef et GND (et autres) représentant les mêmes agents.
-1. MEF récupère ces données et RERO&nbsp;ILS peut ensuite afficher, dans l'interface publique
+2. Chaque mois, le système VIAF fusionne les entités IdRef et GND (et autres) représentant les mêmes agents.
+3. MEF récupère ces données et RERO&nbsp;ILS peut ensuite afficher, dans l'interface publique
     * la version IdRef si la langue de l'interface est le français.
     * la version GND si la langue de l'interface est l'allemand.
 

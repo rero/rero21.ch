@@ -2,11 +2,16 @@
 title: "Resources"
 language: "en"
 date: 2021-01-06
+lastmod: 2021-12-08
 ---
+
+### The RERO+ Foundation, a competence and service centre for libraries
+
+- [www.rero.ch](https://www.rero.ch)
 
 ### RERO 21
 
-- [CIIP official press release](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf)
+- [CIIP official press release](https://www2000.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf)
 
 ### RERO ILS
 

@@ -2,11 +2,16 @@
 title: "Ressourcen"
 language: "de"
 date: 2021-01-06
+lastmod: 2021-12-08
 ---
+
+### Die RERO+ Stiftung, ein Schweizer Kompetenzzentrum für Bibliotheken
+
+- [www.rero.ch](https://www.rero.ch/de)
 
 ### RERO 21
 
-- [Offizielle Pressemitteilung der CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_pressemitteilung.pdf)
+- [Offizielle Pressemitteilung der CIIP](https://www2000.rero.ch/pdfview.php?section=communique&filename=ciip_pressemitteilung.pdf)
 
 ### RERO ILS
 

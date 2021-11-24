@@ -14,7 +14,7 @@ Un accord de principe a été trouvé avec l’[ABES (Agence bibliographique de 
 Pour les bibliothèques de Suisse romande, cette solution a beaucoup d’avantages:
 
 * Continuer de produire des autorités francophones après la transition. 
-* Utiliser et enrichir un fichier d'autorités important et de grande qualité (3.5 millions d'autorités) qui fusionnera à terme avec celui de la BnF (Bibliothèque nationale de France) dans le cadre du [projet FNE](https://www.transition-bibliographique.fr/fne/fichier-national-entites/) (présenté à la [journée RERO](https://www.rero.ch/pdfview.php?section=communique&filename=JR19_FNE_journee_RERO.pdf) en mars 2019).
+* Utiliser et enrichir un fichier d'autorités important et de grande qualité (3.5 millions d'autorités) qui fusionnera à terme avec celui de la BnF (Bibliothèque nationale de France) dans le cadre du [projet FNE](https://www.transition-bibliographique.fr/fne/fichier-national-entites/) (présenté à la [journée RERO](https://www2000.rero.ch/pdfview.php?section=communique&filename=JR19_FNE_journee_RERO.pdf) en mars 2019).
 * Accroitre la visibilité des autorités RERO. 
 * Profiter du [service MEF](https://mef.test.rero.ch/) (Multilingual Entity File) développé par RERO dans l'objectif d'implémenter une gestion multilingue des métadonnées dans des SGB
 
@@ -24,7 +24,7 @@ Une présentation plus complète du scénario a été faite en novembre 2019 à 
 
 * Saisie par les catalogueurs et indexeurs des nouvelles autorités noms propres directement dans IdRef via l’application web
 * Établissement des liens aux autorités IdRef et RERO-RAMEAU par la saisie des identifiants dans les points d’accès des notices bibliographiques
-* Gestion séparée du référentiel [RERO-RAMEAU (noms communs)](https://www.rero.ch/pdfview.php?section=ressources&filename=rameau_dans_le_reseau_suisse_rero_20141106.pdf), que nous adaptons depuis 2012 à l’indexation post-coordonnée, avec transferts mensuels vers Alma/SLSP et MEF/RERO ILS
+* Gestion séparée du référentiel [RERO-RAMEAU (noms communs)](https://www2000.rero.ch/pdfview.php?section=ressources&filename=rameau_dans_le_reseau_suisse_rero_20141106.pdf), que nous adaptons depuis 2012 à l’indexation post-coordonnée, avec transferts mensuels vers Alma/SLSP et MEF/RERO ILS
 * Moissonnage régulier du [serveur OAI PMH d’IdRef](http://www.abes.fr/Autorites-et-referentiels/Services-disponibles/Entrepot-OAI-PMH-IdRef) vers Alma/SLSP et MEF/RERO ILS pour les mises à jour
 * Transmission des propositions RAMEAU à la BnF par les correspondants RAMEAU des sites romands SLSP et RERO, comme jusqu'à présent
 

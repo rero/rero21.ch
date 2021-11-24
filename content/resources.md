@@ -2,11 +2,16 @@
 title: "Ressources"
 language: "fr"
 date: 2021-01-06
+lastmod: 2021-12-08
 ---
+
+### La Fondation RERO+, un centre de compétences suisse au service des bibliothèques
+
+- [www.rero.ch](https://www.rero.ch)
 
 ### RERO 21
 
-- [Communiqué de presse officiel de la CIIP](https://www.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf)
+- [Communiqué de presse officiel de la CIIP](https://www2000.rero.ch/pdfview.php?section=communique&filename=ciip_communique.pdf)
 
 ### RERO ILS
 

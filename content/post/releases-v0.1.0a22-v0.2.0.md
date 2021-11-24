@@ -6,7 +6,7 @@ draft: false
 tags: ["rero-ils", "release"]
 ---
 
-Depuis la [Journée RERO](https://www.rero.ch/page.php?section=communique&pageid=reroday2019_fr) de mars 2019, deux versions de RERO ILS ont été publiées. Elles apportent à la fois une consolidation de l'existant, le début du support du modèle consortial, une amélioration du paramétrage du moteur de recherche et la mise en place des notifications en lien avec le prêt.
+Depuis la [Journée RERO](https://www2000.rero.ch/page.php?section=communique&pageid=reroday2019_fr) de mars 2019, deux versions de RERO ILS ont été publiées. Elles apportent à la fois une consolidation de l'existant, le début du support du modèle consortial, une amélioration du paramétrage du moteur de recherche et la mise en place des notifications en lien avec le prêt.
 
 Les notes de version sont les suivantes :
 
